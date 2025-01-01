@@ -1,0 +1,74 @@
+﻿@model Comic
+<div class="container">
+    <div class="card shadow border-0 mt-4 mx-auto mb-5">
+        <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h2 class="text-light"> Create Comic</h2>
+                </div>
+            </div>
+        </div>
+        <form method="post" class="row" border p-3>
+            <div asp-validation-summary="None"></div>
+            <div class="col-12 col-md-6 mb-2 ps-5 pe-5 fw-bold">
+                <label asp-for="Name">Comic Name</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="col-12 col-md-6 mb-2  ps-5 pe-5 fw-bold">
+                <label asp-for="Writer"></label>
+                <input asp-for="Writer" class="form-control" />
+                <span asp-validation-for="Writer" class="text-danger"></span>
+            </div>
+            <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                <label asp-for="ArtBy"></label>
+                <input asp-for="ArtBy" class="form-control" />
+                <span asp-validation-for="ArtBy" class="text-danger"></span>
+            </div>
+            <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                <label asp-for="Price"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                <label asp-for="OnSaleDate"></label>
+                <input asp-for="OnSaleDate" class="form-control" />
+                <span asp-validation-for="OnSaleDate" class="text-danger"></span>
+            </div>
+            <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                <label asp-for="PageCount"></label>
+                <input asp-for="PageCount" class="form-control" />
+                <span asp-validation-for="PageCount" class="text-danger"></span>
+            </div>
+            <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                <label asp-for="Rated"></label>
+                <input asp-for="Rated" class="form-control" />
+                <span asp-validation-for="Rated" class="text-danger"></span>
+            </div>
+            <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                <label asp-for="Thumbnail"></label>
+                <input asp-for="Thumbnail" class="form-control" />
+                <span asp-validation-for="Thumbnail" class="text-danger"></span>
+            </div>
+
+            <div class="row m-3">
+                <div class="col-6 col-md-3">
+                    <button type="submit" class="btn btn-primary form-control"> Create </button>
+                </div>
+                <div class="col-6 col-md-3">
+                    <a asp-controller="Comic" asp-action="Index" class="btn btn-primary form-control">
+                        Back to Comic
+                    </a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {  
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}
+

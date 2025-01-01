@@ -1,0 +1,267 @@
+﻿@model MovieVM
+@using X.PagedList.Mvc.Core
+@using X.PagedList
+@await Component.InvokeAsync("Carousel")
+@*  4 card  *@
+<div class="container my-5">
+	<div class="text-center mb-4">
+		<h1 class="heading">NOW STREAMING ON MAX</h1>
+	</div>
+	<div class="submenu">
+		<div class="container swiper">
+			<div class="card-wrapper">
+				<ul class="card-list swiper-wrapper">
+					@if (Model.OnMax != null && Model.OnMax.Any())
+					{
+						foreach (var item in Model.OnMax)
+						{
+							<li class="card-item swiper-slide">
+								<a asp-action="NotAvailable"  class="card-link">
+									<div class="ratio ratio-16x9">
+									 <img src="~/@item.Thumbnail" alt="hehe" />
+									</div>
+									<h3 class="card-title"> @item.Title </h3>
+								</a>
+							</li>
+						}
+					}
+				</ul>
+				<div class="swiper-pagination"></div>
+				<div class="swiper-slide-button swiper-button-prev"></div>
+				<div class="swiper-slide-button swiper-button-next"></div>
+			</div>
+		</div>
+	</div>
+</div>
+@* main video*@
+
+<div class="container-fuild " style=" background-color: rgba(0, 116, 232, 1);">
+	<div class="container p-3">
+		<div class="row align-items-center" style="color:white">
+			<!-- Video Section -->
+			@if (Model.MovieMain != null)
+			{
+				<div class="col-md-7">
+					<div class="ratio ratio-16x9">
+						<iframe src="@("https://www.youtube.com/embed/" +
+Model.MovieMain.UrlVideo)" title="Creature Commandos Trailer" allowfullscreen></iframe>
+					</div>
+				</div>
+
+				<!-- Video Details Section -->
+				<div class="col-md-5 mt-3 textVideo d-flex align-items-center">
+					<div>
+						<!-- Bọc nội dung văn bản trong một div để căn giữa theo chiều dọc -->
+						<h5 class="text-uppercase ">FEATURED VIDEO</h5>
+						<h4>@Model.MovieMain.Title</h4>
+						<p>@Model.MovieMain.Name</p>
+						<p>@Model.MovieMain.DiscriptionShort</p>
+					</div>
+				</div>
+			}
+
+		</div>
+	</div>
+
+</div>
+
+
+
+
+@* TRAILERS, CLIPS AND MORE*@
+<div class="container my-5">
+	<div class="text-center mb-4">
+		<h1 class="heading">TRAILERS, CLIPS AND MORE</h1>
+	</div>
+	<div class="submenu">
+		<div class="container swiper">
+			<div class="card-wrapper">
+				<ul class="card-list swiper-wrapper">
+					@if(Model.Take10MovieList!=null && Model.Take10MovieList.Any())
+					{
+						foreach(var item in Model.Take10MovieList){
+							<li class="card-item swiper-slide">
+								<a href="" class="card-link">
+									<div class="ratio ratio-16x9">
+										<iframe src=@("https://www.youtube.com/embed/"+ item.UrlVideo) title="Creature Commandos Trailer" allowfullscreen></iframe>
+									</div>
+									<h3 class="card-title"> @item.Title </h3>
+								
+
+								</a>
+							</li>
+						}
+					
+					}
+					
+					
+				</ul>
+				<div class="swiper-pagination"></div>
+				<div class="swiper-slide-button swiper-button-prev"></div>
+				<div class="swiper-slide-button swiper-button-next"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+@* ALL THE LATEST MOVIE NEWS*@
+@await Component.InvokeAsync("Swiper")
+
+
+
+@* ANIMATED ADVENTURES*@
+<div class="container">
+	<div class=" d-flex flex-wrap  justify-content-between align-items-center mb-4">
+		<h1 class="heading">ANIMATED ADVENTURES</h1>
+@* 		 <a style="white-space: normal;" href="#" class="w-25 btn btn-outline-dark">READ HERE</a> *@
+	</div>
+	<div class="text-center">
+		<!-- Nội dung bên dưới không bị chia đều -->
+		<div class="submenu">
+			<div class="container swiper ">
+				<div class="card-wrapper card-wrapper-5">
+					<ul class="card-list swiper-wrapper">
+						@if (Model.Take10MovieBelongAdventuresList != null && Model.Take10MovieBelongAdventuresList.Any())
+						{
+							foreach (var item in Model.Take10MovieBelongAdventuresList)
+							{
+								<li class="card-item swiper-slide">
+									<a class="card-link except">
+										<img src="~/@item.Thumbnail" alt="" class="card-image1">
+										<h1 class="card-content except ">@item.Name</h1>
+
+									</a>
+								</li>
+							}
+						}
+
+
+					</ul>
+					<div class="swiper-pagination"></div>
+					<div class="swiper-slide-button swiper-button-prev"></div>
+					<div class="swiper-slide-button swiper-button-next"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<div class="container " style="width:90%">
+	<div class="row">
+		<!-- Sidebar Filters -->
+		<div class="col-md-4 col-lg-3 filter-section p-4">
+			<form method="post" asp-controller="Movie" asp-action="Index">
+				<!-- Search by Keyword -->
+				<div class="mb-4">
+					<input style="font-size: 1.1rem;" type="text" id="searchKeyword" name="search" class="form-control" placeholder="Filter by Keyword" value="@ViewBag.SearchKeyword" aria-label="Filter by Keyword">
+				</div>
+
+				<!-- Writer Filter -->
+				<div>
+					<div class="filter-header" data-bs-toggle="collapse" href="#writerFilters" role="button" aria-expanded="false" aria-controls="writerFilters">
+						<h5 class="m-0">WRITER</h5>
+						<span class="fs-5 toggle-icon">+</span>
+					</div>
+					<div class="collapse" id="writerFilters">
+						@if (Model.GreneList != null)
+						{
+							@foreach (var genre in Model.GreneList)
+							{
+								<div class="form-check custom-label">
+									<input class="form-check-input filter-checkbox" type="radio" id="@genre" name="filterGenre" value="@genre"
+									@(genre == ViewBag.SelectedGenre ? "checked" : "") />
+									<label for="@genre" class="form-check-label custom-label">@genre</label>
+								</div>
+							}
+						}						
+					</div>
+				</div>
+
+				<!-- Type Filter -->
+				<div class="mt-4">
+					<div class="filter-header" data-bs-toggle="collapse" href="#typeFilters" role="button" aria-expanded="false" aria-controls="typeFilters">
+						<h5 class="m-0">TYPE</h5>
+						<span class="fs-5 toggle-icon">+</span>
+					</div>
+					<div class="collapse" id="typeFilters">
+						
+						@foreach (var type in Model.TypeMovieList)
+						{
+							<div class="form-check custom-label">
+								<input class="form-check-input filter-checkbox" type="radio" id="@type.Name" name="filterType" value="@type.Name"
+								@(type.Name == ViewBag.SelectedType ? "checked" : "") />
+								<label for="@type.Name" class="form-check-label custom-label">@type.Name</label>
+							</div>
+						}
+					</div>
+				</div>
+
+				<!-- Submit button -->
+				<button type="submit" class="btn btn-primary mt-3">Apply Filters</button>
+			</form>
+		</div>
+
+
+
+
+
+
+		<!-- Movie Cards Section -->
+		<div class="col-md-8 col-lg-9 p-4">
+			<div class="d-flex justify-content-between align-items-center mb-3">
+				<h2 class="heading"> BROWSE CHARACTERS</h2>
+			</div>
+			<div class="row gx-5">
+
+				@foreach (var obj in Model.MovieListPagination)
+				{
+					<div class="col-6 col-md-4 col-lg-3 mb-1">
+						<div class="">
+							<img src="~/@obj.Thumbnail" class="card-img-top rounded" alt="@obj.Name">
+							<div class="card-body">
+								<div  style="min-height:none">										
+									<p class="fw-bold text-center">
+										@(obj.Name.Length > 34 ? obj.Name.Substring(0, 34) + "..." : obj.Name)
+									</p>
+
+								</div>
+								
+							  	<div class="btn-container">
+							  		<a asp-action="Details" asp-route-movieId="@obj.Id" class="btn btn-primary bg-gradient border-0 w-100">
+							  			Details
+							  		</a>
+							  	</div> 
+
+							</div>
+						</div>
+					</div>
+				}
+			</div>
+			<div class="Pagaination">
+				@Html.PagedListPager(Model.MovieListPagination, page =>
+									Url.Action("Index", new { page = page, search = ViewBag.FilterName, filterGenre = ViewBag.SelectedGenre, filterType = ViewBag.SelectedType }),
+									new PagedListRenderOptions
+				{
+					DisplayLinkToFirstPage = PagedListDisplayMode.IfNeeded,
+					DisplayLinkToLastPage = PagedListDisplayMode.IfNeeded,
+					DisplayLinkToPreviousPage = PagedListDisplayMode.IfNeeded,
+					DisplayLinkToNextPage = PagedListDisplayMode.IfNeeded,
+					LinkToFirstPageFormat = "First",
+					LinkToPreviousPageFormat = "Prev",
+					LinkToNextPageFormat = "Next",
+					LinkToLastPageFormat = "Last",
+				})
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+

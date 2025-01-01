@@ -1,0 +1,781 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HUUTRUNGWEB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HUUTRUNGWEB.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\character.css",
+      "PackagePath": "staticwebassets\\css\\character.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\navbar.css",
+      "PackagePath": "staticwebassets\\css\\navbar.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\pagination.css",
+      "PackagePath": "staticwebassets\\css\\pagination.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\Cassandra.avif",
+      "PackagePath": "staticwebassets\\images\\Cassandra.avif"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\Cassandra.jpg",
+      "PackagePath": "staticwebassets\\images\\Cassandra.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\alanscoot.jpg",
+      "PackagePath": "staticwebassets\\images\\alanscoot.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\aquaman.jpg",
+      "PackagePath": "staticwebassets\\images\\aquaman.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\background\\NoAccess.png",
+      "PackagePath": "staticwebassets\\images\\background\\NoAccess.png"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\background\\bgOrder.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\bgOrder.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\background\\intro-video-bg.de424f1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\intro-video-bg.de424f1.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\banner-news-1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-news-1.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\banner-news-2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-news-2.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\banner-news-3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-news-3.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\banner-news-4.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-news-4.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\batman.jpg",
+      "PackagePath": "staticwebassets\\images\\batman.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\bome.jpg",
+      "PackagePath": "staticwebassets\\images\\bome.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\bottom-left-1.jpg",
+      "PackagePath": "staticwebassets\\images\\bottom-left-1.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\bottom-left-2.jpg",
+      "PackagePath": "staticwebassets\\images\\bottom-left-2.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic1.jpg",
+      "PackagePath": "staticwebassets\\images\\comic1.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic2.jpg",
+      "PackagePath": "staticwebassets\\images\\comic2.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\7660edfc-f4c1-4a51-ba63-28e3cc360137.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\7660edfc-f4c1-4a51-ba63-28e3cc360137.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\8380bca7-e12a-4eb8-ab83-d0b845ab65b3.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\8380bca7-e12a-4eb8-ab83-d0b845ab65b3.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\ABSOLUTE_SUPERMAN_1.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\ABSOLUTE_SUPERMAN_1.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_149.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\BATMAN_149.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_151.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\BATMAN_151.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_152.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\BATMAN_152.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_153.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\BATMAN_153.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_154.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\BATMAN_154.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_155.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\BATMAN_155.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR PRESENTS1.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DCHORROR PRESENTS1.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR PRESENTS2.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DCHORROR PRESENTS2.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DCHORROR_PRESENTS1\\01.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DCHORROR_PRESENTS1\\02.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DCHORROR_PRESENTS1\\03.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DCHORROR_PRESENTS1\\04.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DCHORROR_PRESENTS1\\05.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DCHORROR_PRESENTS1\\06.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\07.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DCHORROR_PRESENTS1\\07.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\08.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DCHORROR_PRESENTS1\\08.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\09.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DCHORROR_PRESENTS1\\09.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DCHORROR_PRESENTS1\\10.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_HORROR_PRESENTS_CREATURE_2.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DC_HORROR_PRESENTS_CREATURE_2.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_1.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_1.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_3.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_3.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_4.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_4.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\a9d113fe-6ae5-46d7-a805-fef855dbac5a.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\a9d113fe-6ae5-46d7-a805-fef855dbac5a.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\cybry.jpg",
+      "PackagePath": "staticwebassets\\images\\cybry.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\dc-logo-313x313.svg",
+      "PackagePath": "staticwebassets\\images\\dc-logo-313x313.svg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\deadshot.jpg",
+      "PackagePath": "staticwebassets\\images\\deadshot.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\greenlartan.jpg",
+      "PackagePath": "staticwebassets\\images\\greenlartan.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\harlyquin.jpg",
+      "PackagePath": "staticwebassets\\images\\harlyquin.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\home\\comic.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\comic.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\home\\movie.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\movie.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\home\\news.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\news.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\home\\z6143987872823_6bac3f30b360e96a056ed925f54df96f.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\z6143987872823_6bac3f30b360e96a056ed925f54df96f.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\jokerandladygaga.jpg",
+      "PackagePath": "staticwebassets\\images\\jokerandladygaga.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\kingshark.jpg",
+      "PackagePath": "staticwebassets\\images\\kingshark.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\BLUE_BEELTE.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\BLUE_BEELTE.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\CRIS_OF_INFINITITE.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\CRIS_OF_INFINITITE.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\JOKER.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\JOKER.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\JusticeLeague_Crisis_on_Infinite_Earths_Part_One_2024.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\JusticeLeague_Crisis_on_Infinite_Earths_Part_One_2024.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\JusticeLeague_Crisis_on_Infinite_Earths_Part_Three_2024.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\JusticeLeague_Crisis_on_Infinite_Earths_Part_Three_2024.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\JusticeLeague_Crisis_on_Infinite_Earths_Part_Two_2024.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\JusticeLeague_Crisis_on_Infinite_Earths_Part_Two_2024.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\Justice_League_RWBY_Super_Heroes_Huntsmen_Part_One_2023.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\Justice_League_RWBY_Super_Heroes_Huntsmen_Part_One_2023.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\Justice_League_War_world_2023.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\Justice_League_War_world_2023.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\Merry_Little_Batman_2023.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\Merry_Little_Batman_2023.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\THE_BATMAN.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\THE_BATMAN.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\z6139198546794_432b9f8a70876a225ea10ee08cba7853.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\z6139198546794_432b9f8a70876a225ea10ee08cba7853.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\z6139198563426_23b5a2e1614932e602de5a9abb10ab91.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\z6139198563426_23b5a2e1614932e602de5a9abb10ab91.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\z6139198602653_f7e7033ccc7b4e98ed66b27923657ada.jpg",
+      "PackagePath": "staticwebassets\\images\\movie\\z6139198602653_f7e7033ccc7b4e98ed66b27923657ada.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\289fb841-02ee-4cf5-abb6-e1212ff97d41.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\289fb841-02ee-4cf5-abb6-e1212ff97d41.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\404b5dd7-5fec-4ddd-aaeb-864efe5c37c3.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\404b5dd7-5fec-4ddd-aaeb-864efe5c37c3.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\826875b1-1566-4a02-8842-9ea7a5517c50.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\826875b1-1566-4a02-8842-9ea7a5517c50.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\85a82a04-ceb3-4a55-8ee4-d7ff1a9367a8.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\85a82a04-ceb3-4a55-8ee4-d7ff1a9367a8.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\97969062-c155-46a5-8379-912cbee7b840.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\97969062-c155-46a5-8379-912cbee7b840.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\BATMAN.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\BATMAN.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\COUPLE.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\COUPLE.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\JAMEJUMNE.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\JAMEJUMNE.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\JOKER2.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\JOKER2.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\LADYGAGA.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\LADYGAGA.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\SUPERMANSCRY.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\SUPERMANSCRY.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\WATCHMAN.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\WATCHMAN.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\a1c302fa-e617-4943-9fb1-6b6e0e7c23e3.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\a1c302fa-e617-4943-9fb1-6b6e0e7c23e3.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\a90fd598-7fd8-46d7-a2df-07b69c2d78db.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\a90fd598-7fd8-46d7-a2df-07b69c2d78db.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\d28441c4-3a7b-4020-bdeb-f0e406aa5b54.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\d28441c4-3a7b-4020-bdeb-f0e406aa5b54.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\dfd4bfd9-a2d3-40c5-b542-9aabcbc803d2.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\dfd4bfd9-a2d3-40c5-b542-9aabcbc803d2.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\e44b0a19-eb16-4205-aa29-d201fcefcbc2.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\e44b0a19-eb16-4205-aa29-d201fcefcbc2.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\product8.jpg",
+      "PackagePath": "staticwebassets\\images\\product8.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\right-1.jpg",
+      "PackagePath": "staticwebassets\\images\\right-1.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\right-2.jpg",
+      "PackagePath": "staticwebassets\\images\\right-2.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\right-3.jpg",
+      "PackagePath": "staticwebassets\\images\\right-3.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\right-4.jpg",
+      "PackagePath": "staticwebassets\\images\\right-4.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\right-5.jpg",
+      "PackagePath": "staticwebassets\\images\\right-5.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\silder_home.jpg",
+      "PackagePath": "staticwebassets\\images\\silder_home.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\superman.jpg",
+      "PackagePath": "staticwebassets\\images\\superman.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\superman2.jpg",
+      "PackagePath": "staticwebassets\\images\\superman2.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\theflash.jpg",
+      "PackagePath": "staticwebassets\\images\\theflash.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\thumb-1920-1148436.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-1920-1148436.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\thumbail_1.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbail_1.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\top-left.jpg",
+      "PackagePath": "staticwebassets\\images\\top-left.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\wonder.jpg",
+      "PackagePath": "staticwebassets\\images\\wonder.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\character.js",
+      "PackagePath": "staticwebassets\\js\\character.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\comic.js",
+      "PackagePath": "staticwebassets\\js\\comic.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\news.js",
+      "PackagePath": "staticwebassets\\js\\news.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HUUTRUNGWEB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HUUTRUNGWEB.props",
+      "PackagePath": "build\\HUUTRUNGWEB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HUUTRUNGWEB.props",
+      "PackagePath": "buildMultiTargeting\\HUUTRUNGWEB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HUUTRUNGWEB.props",
+      "PackagePath": "buildTransitive\\HUUTRUNGWEB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

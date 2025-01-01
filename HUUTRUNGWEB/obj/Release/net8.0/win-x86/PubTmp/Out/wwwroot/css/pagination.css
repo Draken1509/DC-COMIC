@@ -1,0 +1,12 @@
+﻿.Pagaination {
+    display: flex;
+    justify-content: center; /* Căn giữa phân trang */
+}
+
+    .Pagaination li {
+        padding: 0 5px 0 0;
+    }
+
+        .Pagaination li a:hover {
+            color: dodgerblue !important;
+        }

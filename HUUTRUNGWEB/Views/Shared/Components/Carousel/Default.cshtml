@@ -1,0 +1,36 @@
+﻿@model List<News>
+<div class="container-fluid m-0 p-0">
+	<div class="carousel slide"
+		 id="carouselDemo"
+		 data-bs-wrap="true"
+		 data-bs-ride="carousel">
+		<div class="carousel-inner" style="max-height:400px">
+
+			@foreach (var item in Model)
+			{
+				<div class="carousel-item @(item == Model.First() ? "active" : "")" style="max-height: 400px;">
+					<img src="~/@item.Thumbnail" class="w-100" style="object-fit: cover;">
+					<div class="carousel-caption d-flex flex-column align-items-start justify-content-center text-start">
+						<h4 class="display-5 fw-bold text-uppercase fs-2">@item.Tittle</h4>
+						<p class="lead">@Html.Raw(item.Content.Length > 100 ? item.Content.Substring(0, 100) + "..." : item.Content)t</p>
+						<a asp-controller="News" asp-action="Details" asp-route-newsId="@item.Id" class="btn btn-light rounded-pill fw-bold px-4 py-2"> Get Now</a>
+					</div>
+				</div>
+			}
+		</div>
+
+		<button class="carousel-control-prev"
+				type="button"
+				data-bs-target="#carouselDemo"
+				data-bs-slide="prev">
+			<span class="carousel-control-prev-icon"></span>
+		</button>
+
+		<button class="carousel-control-next"
+				type="button"
+				data-bs-target="#carouselDemo"
+				data-bs-slide="next">
+			<span class="carousel-control-next-icon"></span>
+		</button>
+	</div>
+</div>

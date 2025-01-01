@@ -1,0 +1,141 @@
+﻿@page
+@model RegisterModel
+
+<style>
+    .my-container {       
+        background-image: url('/images/background/intro-video-bg.de424f1.jpg');
+        background-size: cover; /* Đảm bảo hình ảnh bao phủ toàn bộ */
+        background-position: center; /* Căn giữa hình nền */
+        background-repeat: no-repeat; /* Không lặp lại hình ảnh */
+        padding: 50px 0; /* Thêm khoảng trống trên và dưới */
+    }
+</style>
+
+<div class=" my-container">   
+    <div class="card shadow-lg border-0 mx-auto mt-3" style="max-width: 450px">
+        <div class="card-header bg-primary text-center py-4" style="color: #0d6efd">
+            @if (User.IsInRole(SD.Role_Admin))
+            {
+                <h2 class="text-white mb-0">Registe- ADMIN PORTALr</h2>
+            }
+            else
+            {
+                <h2 class="text-white mb-0">Register</h2>
+            }
+           
+        </div>
+        <div class="card-body p-4">
+            <form id="registerForm" class="row" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                <h4 class="text-center mb-4">Create a New Account</h4>
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3" role="alert"></div>
+
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Email" class="form-control" placeholder="name@example.com" autocomplete="username" />
+                    <label class="ps-3" asp-for=" Input.Email">Email</label>
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+
+                <div class="form-floating mb-3 col-md-6">
+                    <input asp-for="Input.Password" type="password" class="form-control" placeholder="Password" autocomplete="new-password" />
+                    <label class="ps-3"  asp-for="Input.Password">Password</label>
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+
+                <div class="form-floating mb-3 col-md-6">
+                    <input asp-for="Input.ConfirmPassword" type="password" class="form-control" placeholder="Confirm Password" autocomplete="new-password" />
+                    <label class="ps-3"  asp-for="Input.ConfirmPassword">Confirm Password</label>
+                    <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3  col-md-6">
+                    <input asp-for="Input.Name" class="form-control" placeholder="name@example.com" autocomplete="username" />
+                    <label class="ps-3" asp-for="Input.Name"></label>
+                    <span asp-validation-for="Input.Name" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3  col-md-6">
+                    <input asp-for="Input.City" class="form-control" placeholder="name@example.com" autocomplete="username" />
+                    <label class="ps-3" asp-for=" Input.City"></label>
+                    <span asp-validation-for="Input.City" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3  col-md-6">
+                    <input asp-for="Input.District" class="form-control" placeholder="name@example.com" autocomplete="username" />
+                    <label class="ps-3" asp-for="Input.District"></label>
+                    <span asp-validation-for="Input.District" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3  col-md-6">
+                    <input asp-for="Input.Province" class="form-control" placeholder="name@example.com" autocomplete="username" />
+                    <label class="ps-3" asp-for=" Input.Province"></label>
+                    <span asp-validation-for="Input.Province" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3  col-md-6">
+                    <input asp-for="Input.StreetAddress" class="form-control" placeholder="name@example.com" autocomplete="username" />
+                    <label class="ps-3" asp-for=" Input.StreetAddress"></label>
+                    <span asp-validation-for="Input.StreetAddress" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3  col-md-6">
+                    <input asp-for="Input.Postal" class="form-control" placeholder="name@example.com" autocomplete="username" />
+                    <label class="ps-3" asp-for="Input.Postal"></label>
+                    <span asp-validation-for="Input.Postal" class="text-danger"></span>
+                </div>
+
+                @if (User.IsInRole(SD.Role_Admin))
+                {
+                    <div class="form-floating mb-4 col-md-6">
+                        <select asp-for="Input.Role" asp-items="@Model.Input.RoleList" class="form-select">
+                            <option disabled selected>-- Select Role --</option>
+                        </select>
+                        <label asp-for="Input.Role"></label>
+                    </div>
+                    <div class="form-floating mb-4 col-md-6">
+                        <select asp-for="Input.CompanyId" style="display:none" asp-items="@Model.Input.CompanyList" class="form-select">
+                        </select>
+                    </div>
+                
+                    }
+              
+
+
+                <button type="submit" class="btn btn-primary btn-lg w-100">Register</button>
+            </form>
+
+            <hr class="my-4" />
+
+            <h5 class="text-center mb-3">Or Register Using</h5>
+            @if ((Model.ExternalLogins?.Count ?? 0) == 0)
+            {
+                <p class="text-center text-muted">No external authentication services configured.</p>
+            }
+            else
+            {
+                <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="text-center">
+                    @foreach (var provider in Model.ExternalLogins!)
+                    {
+                        <button type="submit" class="btn btn-outline-primary mb-2" name="provider" value="@provider.Name">
+                            @provider.DisplayName
+                        </button>
+                    }
+                </form>
+            }
+        </div>
+    </div>
+
+
+    
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        $(document).ready(function () {
+            $('#Input_Role').change(function(){
+                var selection = $('#Input_Role Option:Selected').text();
+                if(selection=='Company'){
+                    $('#Input_CompanyId').show();
+                }
+                else{
+                    $('#Input_CompanyId').hide();
+                }
+            })
+        })
+    </script>
+}

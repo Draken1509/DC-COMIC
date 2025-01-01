@@ -1,0 +1,87 @@
+﻿@model List<News>
+
+<div class="container">
+    <div class="card mb-3" >
+        <div class="card-header text-center">
+            <h3 class="text-primary mb-0">News LIST</h3>
+        </div>
+        <div class="card-body">
+            <div class="row mb-3">
+                <!-- Cột chứa nút Import và Export -->
+                <div class="col-md-4 d-flex justify-content-start " style="align-content: flex-end;">
+                    <a asp-controller="News" asp-action="Upsert" class="btn btn-secondary me-2">
+                        <i class="bi bi-box-arrow-down"></i> Import
+                    </a>
+                    <a asp-controller="News" asp-action="Upsert" class="btn btn-secondary">
+                        <i class="bi bi-box-arrow-up"></i> Export
+                    </a>
+                </div>               
+                <div class="col-md-8 d-flex justify-content-end">
+                    <a asp-controller="News" asp-action="Upsert" class="btn btn-primary">
+                        <i class="bi bi-plus-circle"></i> Create new News
+                    </a>
+                </div>
+            </div>
+            <div class="table-responsive">
+                <table id="tblData" class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>N/A</th>
+                            <th>Tittle</th>
+                            <th>Author</th>
+                            <th>PublishDate</th>
+                            <th>Type</th>                           
+                            <th></th>
+                        </tr>
+                    </thead>
+
+                </table>
+            </div>
+          
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {    
+    <script src="~/js/news.js"></script>   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*    <tbody>
+                    @foreach (var obj in Model)
+                    {
+                    <tr>
+                    <td>@obj.Name</td>
+                    <td>@obj.Writer</td>
+                    <td>@obj.ArtBy</td>
+                    <td>@obj.Price</td>
+                    <td>@obj.OnSaleDate</td>
+                    <td>@obj.PageCount</td>
+                    <td>@obj.Rated</td>
+                    <td>@(obj.TypeNews != null ? obj.TypeNews.Name : "No data")</td>
+                    <td>
+                    <div class="w-75 btn-group" role="group">
+                    <a asp-controller="News" asp-action="Upsert" asp-route-id="@obj.Id" class="btn btn-dark mx-2">
+                    <i class="bi bi-pencil-square"></i> Edit
+                    </a>
+                    <a asp-controller="News" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2">
+                    <i class="bi bi-trash"></i> Delete
+                    </a>
+                    </div>
+                    </td>
+                    </tr>
+                    }
+                    </tbody> *@

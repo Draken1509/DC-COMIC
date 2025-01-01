@@ -1,0 +1,91 @@
+﻿@model Movie
+<style>
+
+    .img-detail-character {
+
+        width: 100%;
+        max-height:500px;
+
+    }
+    .main-text-detail-character {
+        font-size: 1rem;
+        font-weight:500;
+
+    }
+    .sub-text-detail-character {
+        font-size: 1rem;
+        background-color: #f5f5f5;
+        padding: 30px;
+        font-weight: 500;
+    }
+        .sub-text-detail-character dt {
+            font-weight: bold;
+
+        }
+</style>
+
+<div class="container-fuild my-1">
+    @* Detail Comic *@
+    <div class="container">
+        <div class="row">
+            <!-- Cột chứa hình ảnh -->
+
+            <div class="col-md-3">
+                <img src="~/@(Model.Thumbnail !=null ? Model.Thumbnail:"")" alt="Superman Image" class="img-detail-character w-100">
+            </div>
+
+            <!-- Cột chứa thông tin chi tiết -->
+            <div class="col-md-7">
+                <p class="fw-bold text-uppercase">@(Model?.MovieCategory.Name ?? "N/A")</p>
+                <h1 class="heading text-uppercase" style="font-size:2rem !important">@(Model?.Name ?? "N/A") </h1>
+                <br><br>
+                <p class="main-text-detail-character">
+                    @Html.Raw(@Model?.Discription ?? "N/A")
+                </p>                         
+            </div>
+
+            <!-- Cột trống -->
+            <div class="col-md-2">
+            </div>
+        </div>
+    </div>
+    <div class=" mt-4 sub-text-detail-character" style="display: flex; justify-content: center; align-items: center ">
+        <div class="container row ms-5 ">
+            <div class="col-md-6">
+                <dl class="row">
+                    <dt class="col-sm-4">Writer:</dt>
+                    <dd class="col-sm-8">@(Model?.Writer ?? "N/A")</dd>
+                    <dt class="col-sm-4">Cast:</dt>
+                    <dd class="col-sm-8">@(Model?.Cast ?? "N/A")</dd>
+                    <dt class="col-sm-4">Director:</dt>
+                    <dd class="col-sm-8">@(Model?.Director ?? "N/A")</dd>
+                </dl>
+            </div>
+            <div class="col-md-6">
+                <dl class="row">
+                    <dt class="col-sm-4">U.S. Price:</dt>
+                    <dd class="col-sm-8">
+                        @(Model.Producer ?? "N/A")
+                    </dd>
+
+                   
+                    <dt class="col-sm-4">Executive Producer:</dt>
+                    <dd class="col-sm-8">   @(Model.ExecutiveProducer ?? "N/A")</dd>
+
+                    <dt class="col-sm-4">Rated:</dt>
+                    <dd class="col-sm-8">@(Model?.Genres ?? null)</dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+
+  
+
+    @await Component.InvokeAsync("Swiper")
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="~/js/slider.js"></script>
+
+
+

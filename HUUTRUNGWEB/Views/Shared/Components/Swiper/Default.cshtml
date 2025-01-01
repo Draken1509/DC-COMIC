@@ -1,0 +1,40 @@
+﻿@model List<News>
+
+
+<div class="container mt-5">
+	<div class=" d-flex flex-wrap  justify-content-between align-items-center mb-4">
+		<h1 class="heading">NEWS FROM AROUND THE MULTIVERSE</h1>
+		<a style="white-space: normal;" asp-controller="News" asp-action="Index"  class="w-25 btn btn-outline-dark">MORE DC NEWS</a>
+	</div>
+	<div class="text-center">
+		<!-- Nội dung bên dưới không bị chia đều -->
+		<div class="submenu">
+			<div class="container swiper ">
+				<div class="card-wrapper card-wrapper-3">
+					<ul class="card-list swiper-wrapper">
+									
+						@if (Model.Any() && Model != null)
+						{
+							foreach (var obj in Model)
+							{
+								<li class="card-item swiper-slide">
+									<a asp-controller="News" asp-action="Details" asp-route-newsId="@obj.Id" asp-controller="" class="card-link except">
+										<img src="~/@obj.Thumbnail" alt="" class="card-image">
+										<h1 class="card-content except">@obj.Tittle</h1>
+									</a>
+								</li>
+							}
+						}						
+					</ul>
+					<div class="swiper-pagination"></div>
+					<div class="swiper-slide-button swiper-button-prev"></div>
+					<div class="swiper-slide-button swiper-button-next"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+

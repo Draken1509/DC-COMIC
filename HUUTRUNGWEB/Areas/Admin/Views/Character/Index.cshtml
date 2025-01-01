@@ -1,0 +1,55 @@
+﻿@model List<Character>
+
+<div class="container">
+    <div class="card", style="max-width:1200px" >
+        <div class="card-header text-center">
+            <h3 class="text-primary mb-0">Character LIST</h3>
+        </div>
+        <div class="card-body">
+            <div class="row mb-3">
+                <div class="col text-end">
+                    <a asp-controller="Character" asp-action="Create" class="btn btn-primary">
+                        <i class="bi bi-plus-circle"></i> Create new Character
+                    </a>
+                </div>
+            </div>
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>NAME</th>
+                        <th>POWER</th>
+                        <th>ALIAS</th>
+                        <th>DESCRIPTION</th>
+                        <th>OCCUPANTION</th>
+                        <th>BASE OF OPERRATIONS</th>                       
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var obj in Model)
+                    {
+                        <tr>
+                            <td>@obj.Name</td>
+                            <td>@obj.Power</td>
+                            <td>@obj.Alias</td>
+                            <td>@obj.Description</td>
+                            <td>@obj.Name</td>
+                            <td>@obj.Occupation</td>
+                            <td>@obj.BaseOfOperations</td>
+                            <td>
+                                <div class="w-75 btn-group" role="group">
+                                    <a asp-controller="Character" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-dark mx-2">
+                                        <i class="bi bi-pencil-square"></i> Edit
+                                    </a>
+                                    <a asp-controller="Character" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2">
+                                        <i class="bi bi-trash"></i> Delete
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

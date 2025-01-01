@@ -1,0 +1,194 @@
+﻿@model ComicVM
+
+<div class="container">
+    <div class="card shadow border-0 mt-4 mx-auto mb-5">
+        <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h2 class="text-light">@(Model.Comic.Id != 0 ? "Update":" Create") Comic</h2>
+                </div>
+            </div>
+        </div>
+        <form method="post" class="row border p-3 " enctype="multipart/form-data">
+            <input asp-for="Comic.Id" hidden/>
+            <input asp-for="Comic.Thumbnail" hidden />
+            <div class="row">
+                <div class="col-10">
+                    <div asp-validation-summary="None"></div>
+                    <div class="row">
+                        <div class="col-12 col-md-6 mb-2 ps-5 pe-5 fw-bold ">
+                            <label class="mb-1" asp-for="Comic.Name">Comic Name</label>
+                            <input asp-for="Comic.Name" class="form-control" />
+                            <span asp-validation-for="Comic.Name" class="text-danger"></span>
+                        </div>
+                        <div class="col-12 col-md-6 mb-2  ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="Comic.Writer"></label>
+                            <input asp-for="Comic.Writer" class="form-control" />
+                            <span asp-validation-for="Comic.Writer" class="text-danger"></span>
+                        </div>
+                    </div>
+                   
+                    <div class="row"> 
+                        <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="Comic.ArtBy"></label>
+                            <input asp-for="Comic.ArtBy" class="form-control" />
+                            <span asp-validation-for="Comic.ArtBy" class="text-danger"></span>
+                        </div>
+                        <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="Comic.Price"></label>
+                            <input asp-for="Comic.Price" class="form-control" />
+                            <span asp-validation-for="Comic.Price" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="Comic.Price50"></label>
+                            <input asp-for="Comic.Price50" class="form-control" />
+                            <span asp-validation-for="Comic.Price50" class="text-danger"></span>
+                        </div>
+                        <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="Comic.Price100"></label>
+                            <input asp-for="Comic.Price100" class="form-control" />
+                            <span asp-validation-for="Comic.Price100" class="text-danger"></span>
+                        </div>
+                    </div>
+                   
+                    <div class="row">
+                        <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="Comic.Colorist"></label>
+                            <input asp-for="Comic.Colorist" class="form-control" />
+                            <span asp-validation-for="Comic.Colorist" class="text-danger"></span>
+                        </div>
+                        <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="Comic.Cover"></label>
+                            <input asp-for="Comic.Cover" class="form-control" />
+                            <span asp-validation-for="Comic.Price100" class="text-danger"></span>
+                        </div>
+                    </div>
+                                   
+                    <div class="row">
+                        <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="Comic.OnSaleDate"></label>
+                            <input type="date" value="@ViewData["OnSaleDate"]" asp-for="Comic.OnSaleDate" class="form-control" />
+                            <span asp-validation-for="Comic.OnSaleDate" class="text-danger"></span>
+                        </div>
+                        <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="Comic.PageCount"></label>
+                            <input asp-for="Comic.PageCount" class="form-control" />
+                            <span asp-validation-for="Comic.PageCount" class="text-danger"></span>
+                        </div>
+                    </div>
+                   
+                    <div class="row">
+                        <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="Comic.Rated"></label>
+                            <input asp-for="Comic.Rated" class="form-control" />
+                            <span asp-validation-for="Comic.Rated" class="text-danger"></span>
+                        </div>
+                        <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="Comic.Thumbnail"></label>
+                            <input type="file" name="file" asp-for="Comic.Thumbnail" class="form-control" />
+                            <span asp-validation-for="Comic.Thumbnail" class="text-danger"></span>
+                        </div>
+                    </div>
+                   
+                    <div class="row">
+                        <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="Comic.ComicCategoryId"></label>
+                            <select asp-for="@Model.Comic.ComicCategoryId" asp-items="@Model.TypeComicList" class="form-select">
+                                <option disabled selected>
+                                    --Select Type--
+                                </option>
+                            </select>
+                            <span asp-validation-for="Comic.ComicCategoryId" class="text-danger"></span>
+                        </div>
+                        <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="Comic.SeriesId"></label>
+                            <select asp-for="@Model.Comic.SeriesId" asp-items="@Model.SeriesList" class="form-select">
+                                <option disabled selected>
+                                    --Select Series--
+                                </option>
+                            </select>
+                            <span asp-validation-for="Comic.ComicCategoryId" class="text-danger"></span>
+                        </div>
+
+                    </div>
+                    <div class="row my-2">
+                        <div class="col-12 col-md-3 ps-5  fw-bold">
+                            <div class="form-check text-warning ">
+                                <label class="form-check-label" asp-for="Comic.IsFree"></label>
+                                <input  asp-for="Comic.IsFree" class="form-check-input" type="checkbox" />
+                                <span asp-validation-for="Comic.IsFree" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-3 fw-bold">
+                            <div class="form-check text-warning">
+                                <input asp-for="Comic.IsNew" class="form-check-input" type="checkbox" />
+                                <label class="form-check-label" asp-for="Comic.IsNew"></label>
+                                <span asp-validation-for="Comic.IsNew" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                   
+                    <div class="col-12 ps-5 pe-5 py-3 fw-bold">
+                        <label class="mb-1" asp-for="Comic.Description"></label>
+                        <textarea type="file" asp-for="Comic.Description" class="form-control"> </textarea>
+                    </div>
+                    @*  button  *@
+                    <div class="row m-3">
+                        <div class="col-6 col-md-3">
+                            @if (Model.Comic.Id != 0)
+                            {
+                                <button type="submit" class="btn btn-primary form-control"> Update </button>
+                            }
+                            else
+                            {
+                                <button type="submit" class="btn btn-primary form-control"> Create </button>
+                            }
+                        </div>
+                        <div class="col-6 col-md-3">
+                            <a asp-controller="Comic" asp-action="Index" class="btn btn-primary form-control">
+                                Back to Comic
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-2">
+                    <img src="~/@Model.Comic.Thumbnail" width="100%" 
+                     style="border-radius:5px; border: 1px solid  #bbb9b9" />
+                </div>
+            </div>
+
+       
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script>
+    // Lắng nghe sự kiện thay đổi giá trị ngày
+    document.querySelector('input[type="date"]').addEventListener('change', function() {
+        var date = new Date(this.value);
+        
+        // Định dạng lại ngày theo dd/MM/yyyy
+        var formattedDate = ("0" + date.getDate()).slice(-2) + '/' + ("0" + (date.getMonth() + 1)).slice(-2) + '/' + date.getFullYear();
+
+            console.log(formattedDate); // In ra định dạng ngày dd/MM/yyyy
+        });
+    </script>
+        @* <script src="https://cdn.tiny.cloud/1/t94iflximzuda7ur3fg3o1httnz6id1nn5a9w4pnnh4n9b2n/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script> *@
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount',
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table | align lineheight | numlist bullist indent outdent | emoticons charmap | removeformat',
+        });
+    </script>
+
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}
+

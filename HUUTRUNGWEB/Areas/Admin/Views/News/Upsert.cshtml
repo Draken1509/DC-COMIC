@@ -1,0 +1,132 @@
+﻿@model NewsVMA
+
+<div class="container">
+    <div class="card shadow border-0 mt-4 mx-auto mb-5">
+        <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h2 class="text-light">@(Model.News.Id != 0 ? "Update":" Create") Model</h2>
+                </div>
+            </div>
+        </div>
+        <form method="post" class="row border p-3 " enctype="multipart/form-data">
+            <input asp-for="News.Id" hidden/>
+            <input asp-for="News.Thumbnail" hidden />
+            <div class="row">
+                <div class="col-10">
+                    <div asp-validation-summary="None"></div>
+                    <div class="row">
+                        <div class="col-12 col-md-6 mb-2 ps-5 pe-5 fw-bold ">
+                            <label class="mb-1" asp-for="News.Tittle">Tittle</label>
+                            <input asp-for="News.Tittle" class="form-control" />
+                            <span asp-validation-for="News.Tittle" class="text-danger"></span>
+                        </div>
+                        <div class="col-12 col-md-6 mb-2  ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="News.Author"></label>
+                            <input asp-for="News.Author" class="form-control" />
+                            <span asp-validation-for="News.Author" class="text-danger"></span>
+                        </div>
+                    </div>                                                    
+                    <div class="row">                                  
+                        <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="News.Thumbnail"></label>
+                            <input type="file" name="file" asp-for="News.Thumbnail" class="form-control" />
+                            <span asp-validation-for="News.Thumbnail" class="text-danger"></span>
+                        </div>
+                        <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="News.NewsCategoryId"></label>
+                            <select asp-for="@Model.News.NewsCategoryId" asp-items="@Model.TypeNewsList" class="form-select">
+                                <option disabled selected>
+                                    --Select Type--
+                                </option>
+                            </select>
+                            <span asp-validation-for="@Model.News.NewsCategoryId" class="text-danger"></span>
+                        </div>
+                      
+                    </div>
+                    <div class="row">                
+                        <div class="col-12 col-md-6 ps-5 pe-5 fw-bold">
+                            <label class="mb-1" asp-for="News.PublishDate"></label>
+                            @if(Model.News.Id != 0 )
+                            {
+                                <input type="date" readonly value="@ViewData["PublishDate"]" asp-for="News.PublishDate" class="form-control" />
+                            }
+                            else
+                            {
+                                <input type="date" value="@ViewData["PublishDate"]" asp-for="News.PublishDate" class="form-control" />
+                            }
+                       
+                            <span asp-validation-for="News.PublishDate" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-12 ps-5 pe-5 py-3 fw-bold">
+                        <label class="mb-1" asp-for="News.Content"></label>
+                        <textarea type="file" asp-for="News.Content" class="form-control"> </textarea>
+                    </div>
+                    @*  button  *@
+                    <div class="row m-3">
+                        <div class="col-6 col-md-3">
+                            @if (Model.News.Id != 0)
+                            {
+                                <button type="submit" class="btn btn-primary form-control"> Update </button>
+                            }
+                            else
+                            {
+                                <button type="submit" class="btn btn-primary form-control"> Create </button>
+                            }
+                        </div>
+                        <div class="col-6 col-md-3">
+                            <a asp-controller="News" asp-action="Index" class="btn btn-primary form-control">
+                                Back to Model
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-2">
+                    <img src="~/@Model.News.Thumbnail" width="100%"
+                         style="border-radius:5px; border: 1px solid  #bbb9b9" />
+                </div>
+            </div>
+
+       
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script>
+        // Lắng nghe sự kiện thay đổi giá trị ngày
+        document.querySelector('input[type="date"]').addEventListener('change', function() {
+            var date = new Date(this.value);
+
+            // Định dạng lại ngày theo dd/MM/yyyy
+            var formattedDate = ("0" + date.getDate()).slice(-2) + '/' + ("0" + (date.getMonth() + 1)).slice(-2) + '/' + date.getFullYear();
+
+                console.log(formattedDate); // In ra định dạng ngày dd/MM/yyyy
+            });
+    </script>
+    <script>
+        // Lắng nghe sự kiện thay đổi giá trị ngày
+        document.querySelector('input[type="date"]').addEventListener('change', function() {
+            var date = new Date(this.value);
+
+            // Định dạng lại ngày theo dd/MM/yyyy
+            var formattedDate = ("0" + date.getDate()).slice(-2) + '/' + ("0" + (date.getMonth() + 1)).slice(-2) + '/' + date.getFullYear();
+
+                console.log(formattedDate); // In ra định dạng ngày dd/MM/yyyy
+            });
+    </script>
+    @* <script src="https://cdn.tiny.cloud/1/t94iflximzuda7ur3fg3o1httnz6id1nn5a9w4pnnh4n9b2n/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script> *@
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount',
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table | align lineheight | numlist bullist indent outdent | emoticons charmap | removeformat',
+        });
+    </script>
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}
+

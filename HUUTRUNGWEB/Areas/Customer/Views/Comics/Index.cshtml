@@ -1,0 +1,254 @@
+﻿@model ShoppingCartVM
+@using X.PagedList.Mvc.Core
+@using X.PagedList
+
+
+@await Component.InvokeAsync("Carousel")
+@* LATEST DC COMICS & GRAPHIC NOVELS *@
+<div class="container mt-5">
+	<div class="justify-content-between align-items-center mb-4">
+		<h1 class="heading">LATEST DC COMICS & GRAPHIC NOVELS</h1>		
+	</div>
+	<div class="text-center">
+		<!-- Nội dung bên dưới không bị chia đều -->
+		<div class="submenu">
+			<div class="container swiper ">
+				<div class="card-wrapper card-wrapper-5">
+					<ul class="card-list swiper-wrapper">
+						@if (Model.ComicNewList != null && Model.ComicNewList.Any())
+						{
+							@foreach (var obj in Model.ComicNewList)
+							{
+								<li class="card-item swiper-slide">
+									<div class="card border-0 shadow rounded h-100">
+										<img src="~/@obj.Thumbnail" class="card-img-top rounded">
+										<div class="card-body d-flex flex-column">
+											<p class="card-title fw-bold text-dark opacity-75 text-uppercase text-center mb-2">
+												@obj.Price<span>$</span>
+											</p>
+											<div style="height:10vh">
+												<p class=" card-title fw-bold text-center flex-grow-1">
+													@obj.Name
+												</p>
+											</div>
+
+											<div class="btn-container mt-auto">
+												<a asp-action="Details"  asp-route-comicId="@obj.Id" class="btn btn-primary bg-gradient border-0 w-100">
+													Details
+												</a>
+											</div>
+										</div>
+									</div>
+								</li>
+							}
+						}
+					
+					</ul>
+
+					<div class="swiper-pagination"></div>
+					<div class="swiper-slide-button swiper-button-prev"></div>
+					<div class="swiper-slide-button swiper-button-next"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+@*READ FOR FREE ON DC UNIVERSE INFINITE *@
+<div class="container mt-5">
+	<div class="justify-content-between align-items-center mb-4">
+		<h1 class="heading">READ FOR FREE ON DC UNIVERSE INFINITE</h1>
+	</div>
+	<div class="text-center">
+		<!-- Nội dung bên dưới không bị chia đều -->
+		<div class="submenu">
+			<div class="container swiper ">
+				<div class="card-wrapper card-wrapper-5">
+					<ul class="card-list swiper-wrapper">
+						@if(Model != null && Model.ComicNewList.Any())
+						{
+							@foreach (var obj in Model.ComicFreeList)
+							{
+								<li class="card-item swiper-slide">
+									<div class="card border-0 shadow rounded h-100">
+										<img src="~/@obj.Thumbnail" class="card-img-top rounded">
+										<div class="card-body d-flex flex-column">
+											<p class="card-title fw-bold text-dark opacity-75 text-uppercase text-center mb-2">
+												@obj.Price<span>$</span>
+											</p>
+											<div style="height:10vh">
+												<p class=" card-title fw-bold text-center flex-grow-1">
+													@obj.Name
+												</p>
+											</div>
+
+											<div class="btn-container mt-auto">
+												<a asp-action="Details" asp-route-comicId="@obj.Id" class="btn btn-primary bg-gradient border-0 w-100">
+													Details
+												</a>
+											</div>
+										</div>
+									</div>
+								</li>
+							}
+						}
+						
+					</ul>
+					 
+					<div class="swiper-pagination"></div>
+					<div class="swiper-slide-button swiper-button-prev"></div>
+					<div class="swiper-slide-button swiper-button-next"></div>
+				</div>
+			</div>
+		</div>
+	
+
+	</div>
+</div>
+
+
+
+@* MAIN MENU *@
+<div class="contact-form" style="background-color: rgba(0, 116, 232, 1);">
+	<div class="container my-5 pt-5">
+		<div class="row align-items-center">
+			<!-- Video Section -->
+			@if (Model.MovieMain != null)
+			{
+				<div class="col-md-7">
+					<div class="ratio ratio-16x9">
+						<iframe src="@("https://www.youtube.com/embed/" +
+						Model.MovieMain.UrlVideo)" title="Creature Commandos Trailer" allowfullscreen></iframe>
+					</div>
+				</div>
+
+				<!-- Video Details Section -->
+				<div class="col-md-5 mt-3 textVideo d-flex align-items-center text-white">
+					<div>
+					<!-- Bọc nội dung văn bản trong một div để căn giữa theo chiều dọc -->
+					<h3 class="text-uppercase ">FEATURED VIDEO</h3>
+					<h2>CREATURE COMMANDOS – OFFICIAL TRAILER</h2>
+					<p>You wanted monsters? You got motherf*ckin' monsters.</p>
+					<p>From James Gunn, comes the new DC Studios and Max Original Series <em>Creature Commandos</em>. Streaming December 5th, exclusively on Max.</p>
+				</div>
+			</div>
+			}
+		</div>
+	</div>
+</div>
+
+
+@* info-character *@
+<div class="container " style="width:90%">
+	<div class="row">
+		<!-- Sidebar Filters -->
+		<div class="col-md-4 col-lg-3 filter-section p-4">
+			<form method="post" asp-controller="Comics" asp-action="Index">
+				<!-- Search by Keyword -->
+				<div class="mb-4">
+					<input style="font-size: 1.1rem;" type="text" id="searchKeyword" name="search" class="form-control" placeholder="Filter by Keyword" value="@ViewBag.SearchKeyword" aria-label="Filter by Keyword">
+				</div>
+
+				<!-- Writer Filter -->
+				<div>
+					<div class="filter-header" data-bs-toggle="collapse" href="#writerFilters" role="button" aria-expanded="false" aria-controls="writerFilters">
+						<h5 class="m-0">WRITER</h5>
+						<span class="fs-5 toggle-icon">+</span>
+					</div>
+					<div class="collapse" id="writerFilters">
+						@foreach (var writer in Model.WriterComicList)
+						{
+							<div class="form-check custom-label">
+								<input class="form-check-input filter-checkbox" type="radio" id="writer_@writer" name="filterWriter" value="@writer"
+								@(writer == ViewBag.SelectedWriter ? "checked" : "") />
+								<label for="writer_@writer" class="form-check-label custom-label">@writer</label>
+							</div>
+						}
+					</div>
+				</div>
+
+				<!-- Type Filter -->
+				<div class="mt-4">
+					<div class="filter-header" data-bs-toggle="collapse" href="#typeFilters" role="button" aria-expanded="false" aria-controls="typeFilters">
+						<h5 class="m-0">TYPE</h5>
+						<span class="fs-5 toggle-icon">+</span>
+					</div>
+					<div class="collapse" id="typeFilters">
+						@foreach (var type in Model.TypeComicList)
+						{
+							<div class="form-check custom-label">
+								<input class="form-check-input filter-checkbox" type="radio" id="type_@type.Name" name="filterType" value="@type.Name"
+								@(type.Name == ViewBag.SelectedType ? "checked" : "") />
+								<label for="type_@type.Name" class="form-check-label custom-label">@type.Name</label>
+							</div>
+						}
+					</div>
+				</div>
+
+				<!-- Submit button -->
+				<button type="submit" class="btn btn-primary mt-3">Apply Filters</button>
+			</form>
+		</div>
+
+		
+
+
+
+
+		<!-- Character Cards Section -->
+		<div class="col-md-8 col-lg-9 p-4">
+			<div class="d-flex justify-content-between align-items-center mb-3">
+				<h2 class="heading"> BROWSE CHARACTERS</h2>
+			</div>						
+			<div class="row gx-5">
+				
+				@foreach (var obj in Model.ComicListPagination)
+				{
+					<div class="col-6 col-md-4 col-lg-3 mb-3">
+						<div class="card border-0 shadow rounded">
+							<img src="~/@obj.Thumbnail" class="card-img-top rounded" alt="@obj.Name">
+							<div class="card-body">
+								<p class="card-title fw-bold text-dark opacity-75 text-uppercase text-center">
+									@obj.Price <span class="fs-6">$</span>
+								</p>
+								<p class="card-title fw-bold text-center">@obj.Name</p>
+								<div class="btn-container">
+									<a asp-action="Details" asp-route-comicId="@obj.Id" class="btn btn-primary bg-gradient border-0 w-100">
+										Details
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				}						
+			</div>
+			<div class="Pagaination">
+				@Html.PagedListPager(Model.ComicListPagination, page =>
+									Url.Action("Index", new { page = page, search = ViewBag.FilterName, filterWriter = ViewBag.SelectedWriter, filterType = ViewBag.SelectedType }),
+									new PagedListRenderOptions
+				{
+					DisplayLinkToFirstPage = PagedListDisplayMode.IfNeeded,
+					DisplayLinkToLastPage = PagedListDisplayMode.IfNeeded,
+					DisplayLinkToPreviousPage = PagedListDisplayMode.IfNeeded,
+					DisplayLinkToNextPage = PagedListDisplayMode.IfNeeded,				
+					LinkToFirstPageFormat = "First",
+					LinkToPreviousPageFormat = "Prev",
+					LinkToNextPageFormat = "Next",
+					LinkToLastPageFormat = "Last",
+				})
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,98 @@
+﻿@model NewsVM
+<style> 
+    img{
+        width:100% ;
+        height: 100%;
+    }
+    a{
+       background:none;
+    }
+</style>
+<section class="banner">
+    <div class="banner-main-content">
+        <h5 style="text-transform:uppercase">This is the latest news page of DC-COMIC</h5>
+        <div class="current-news-head">
+            @foreach (var item in Model.OffcialAndLatestNewsList)
+            {
+                <h5>
+                    <a asp-action="Details" asp-route-newsId="@item.Id">
+                        @item.Tittle
+                        <span>by @item.Author</span>
+                    </a>                                      
+                </h5>
+            }
+        </div>
+    </div>
+
+    <div class="banner-sub-content">
+
+        @foreach (var item in Model.InterviewsNewsList)
+        {
+            <div class="hot-topic">
+                <img src="~/@item.Thumbnail" alt="@item.Tittle" />
+                <div class="hot-topic-content">                 
+                    <p style="text-decoration:none">@Html.Raw(item.Content.Length > 100 ? item.Content.Substring(0, 300) + "..." : item.Content)</p>
+                    <h5>@item.Tittle</h5>
+                    <a asp-action="Details" asp-route-newsId="@item.Id">Read More</a>
+                </div>
+            </div>
+        }
+    </div>
+</section>
+<hr>
+
+<main>
+    <section class="main-container-left">
+        <h4>Top Stories</h4>
+        <div class="container-top-left">
+         @*    Trả về true: Nếu tập hợp chứa ít nhất một phần tử.
+            Trả về false: Nếu tập hợp không có phần tử nào (tức là rỗng). *@
+            @if (Model.FeaturesNewsList.Any())
+            {
+                var topArticle = Model.FeaturesNewsList.First();
+                <article>
+                    <img width="auto !important" src="~/@topArticle.Thumbnail" alt="@topArticle.Tittle">
+                    <div>
+                        <h4>@topArticle.Tittle</h4>
+                        <p>@Html.Raw(topArticle.Content.Length > 100 ? topArticle.Content.Substring(0, 300) + "..." : topArticle.Content)</p>
+                        <a asp-action="Details" asp-route-newsId="@topArticle.Id">Read More</a>
+                    </div>
+                </article>
+            }
+        </div>
+
+        <div class="container-bottom-left">
+            @foreach (var article in Model.FeaturesNewsList.Skip(1))
+            {
+                <article>
+                    <img src="~/@article.Thumbnail" alt="@article.Tittle" style="height: 100px !important;">
+                    <div>
+                        <h4>@article.Tittle</h4>
+                        <p>@Html.Raw(article.Content.Length > 100 ? article.Content.Substring(0, 300) + "..." : article.Content)</p>
+                        <a asp-action="Details" asp-route-newsId="@article.Id">Read More</a>
+                    </div>
+                </article>
+            }
+        </div>
+    </section>
+
+    <section class="main-container-right">
+        <h4>Latest Stories</h4>
+        @foreach (var item in Model.OffcialAndLatestNewsList)
+        {
+            <article>
+                <h4>just in </h4>
+                <div>
+                    <h4>@item.Tittle</h4>
+                    <p>@Html.Raw(item.Content.Length > 100 ? item.Content.Substring(0, 300) + "..." : item.Content)</p>
+                    <a asp-action="Details" asp-route-newsId="@item.Id">Read More</a>
+                </div>
+                <img src="~/@item.Thumbnail" alt="@item.Tittle">
+            </article>
+        }
+    </section>
+</main>
+
+
+
+<script src="news.js" async defer></script>

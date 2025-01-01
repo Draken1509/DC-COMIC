@@ -1,0 +1,256 @@
+﻿
+
+/*card - 4 main*/
+
+
+.card {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    cursor: pointer;    
+    }
+.card .impotant{
+    width:35vh;
+}
+.card-body {
+    min-height: 100px;   
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.img-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    background: linear-gradient(to top, white, transparent);
+    pointer-events: none;
+}
+
+.card-body h3 {
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-size:1.1rem;
+}
+
+.card-body h6 {
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.card-body a {
+    font-size: 1em;
+}
+
+.btn-outline-dark {
+    border-radius: 30px;
+    padding: 10px 20px;
+    width: 100%;
+    font-weight: bold;
+}
+
+    .btn-outline-dark:hover {
+        background-color: #0074e8;
+        border-color: #0074e8;
+        color: white;
+    }
+
+
+
+
+
+
+.textVideo p {
+    font-family: Verdana,Arial,fantasy;
+    font-size: 1.1rem;
+    font-weight: normal;
+}
+
+.textVideo h2 {
+    font-weight: 900;
+}
+
+
+
+
+
+
+
+
+
+
+.submenu {
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.card-wrapper {
+    /*max-width: 1100px;*/
+    margin: 0 60px 35px;
+    padding: 20px 10px;
+/*    overflow: hidden;*/
+}
+
+.card-list .card-item {
+    list-style: none;  
+}
+
+    .card-list .card-item .card-link {
+       
+        user-select: none;
+        display: block;
+        background: #fff;      
+        text-decoration: none;
+       
+        transition: 0.2s ease;
+    }
+
+        .card-list .card-item .card-link:hover {
+          
+        }
+
+        .card-list .card-item .card-link:active {
+            cursor: grabbing;
+        }
+
+
+.card-list .card-link .card-image {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    border-radius: 10px;
+    
+}
+.card-list .card-link .card-image1 {
+    width: 100%;
+    aspect-ratio: 9/16;
+    object-fit: cover;
+    border-radius: 0px;
+
+}
+
+
+.card-list .card-link .badge {
+    color: #5372f0;
+    padding: 8px 16px;
+    font-family: 500;
+    font-size: 0.95rem;
+    margin: 16px 0 18px;
+    background: #dde4ff;
+    width: fit-content;
+    border-radius: 50px;
+}
+
+.card-list .card-link .card-title {
+    padding: 0.8rem 0;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1rem;
+    color: #6c757d;
+    font-weight: 900;
+}
+.card-list .card-link .card-content{
+    height:85px;
+    padding: 0.8rem 0;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    color: black;
+    font-weight: 900;
+}
+.card-list .card-link .card-content.msmall {
+    height: 60px;
+    padding: 0.8rem 0;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    color: black;
+    font-weight: 900;
+}
+.card-list .card-link .card-button {
+    height: 6vh;
+    width: 80%;
+    color: #5372f0;
+   
+    background: none;
+    cursor: pointer;
+    border: 2px solid #5372f0;
+    transition: 0.4s ease;
+    cursor: pointer;
+
+    font-size: 2rem;
+   
+    border: 2px solid #007bff; /* Thêm border cho nút */
+    border-radius: 30px; /* Bo tròn góc */
+    color: #007bff; /* Màu chữ ban đầu */
+    background-color: transparent; /* Nền trong suốt */
+    text-align: center; /* Căn giữa chữ */
+    text-decoration: none; /* Loại bỏ gạch dưới */
+    display: inline-block;
+    transition: all 0.3s ease; /* Thêm hiệu ứng chuyển tiếp */
+}
+.card-list .card-link:hover .card-button:hover {
+    background-color: #007bff; /* Nền xanh khi hover */
+    color: white; /* Màu chữ trắng khi hover */
+    cursor: pointer; /* Thêm hiệu ứng con trỏ chuột */
+}
+.card-wrapper .swiper-pagination-bullet {
+    height: 10px;
+    width: 10px;
+    opacity: 0.5;
+    background: #5372f0;
+}
+.card-wrapper .swiper-pagination-bullet-active {
+    opacity: 1;
+}
+.card-wrapper .swiper-slide-button {
+    color: #5372f0;
+    margin-top: -35px;
+}
+@media screen and (max-width:768px) {
+    .card-wrapper {
+        margin: 0 10px 25px;
+    }
+
+        .card-wrapper .swiper-slide-button {
+            display: none;
+        }
+}
+.footer {
+    background-color: #2d005e;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 14px;
+    height: 100%;
+}
+
+    .footer a {
+        color: #ffffff; /* Màu chữ trắng */
+        text-decoration: none;
+        margin: 0 10px;
+    }
+
+        .footer a:hover {
+            color: #00bfff; /* Màu xanh khi rê chuột */
+        }
+
+.footer-logo {
+    width: 5rem;
+    margin-top: 10px;
+}

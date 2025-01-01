@@ -1,0 +1,163 @@
+﻿@await Component.InvokeAsync("Carousel")
+@* scroll *@
+<section class="mb-3">
+	<div class="container my-5">
+
+		@* leftscroll *@
+		<div class="row gx-5 justify-content-between">
+			<!-- Character Section -->
+			<div class="col-md-8">
+				<div class="text-center mb-4">
+					<h1 class="heading">SUICIDE SQUAD: KILL THE JUSTICE LEAGUE</h1>
+				</div>
+				<div class="image-scrolling-container  ">
+					<div class=" row gx-5 d-flex flex-nowrap image-scroll">
+						<div class=" col-6 col-md-4 col-lg-3 character ">
+							<img src="~/images/harlyquin.jpg" class="img-fluid" alt="Deadshot">
+							<p>HARLEY QUINN</p>
+						</div>
+						<div class=" col-6 col-md-4 col-lg-3 character">
+							<img src="~/images/harlyquin.jpg" class="img-fluid " alt="Deadshot">
+							<p>CAPTAIN BOOMERANG</p>
+						</div>
+						<div class=" col-6 col-md-4 col-lg-3 character">
+							<img src="~/images/harlyquin.jpg" class="img-fluid" alt="Deadshot">
+							<p>DEADSHOT</p>
+						</div>
+						<div class=" col-6 col-md-4 col-lg-3 character">
+							<img src="~/images/harlyquin.jpg" class="img-fluid" alt="Deadshot">
+							<p>KING SHARK</p>
+						</div>
+
+						<!-- Bạn có thể thêm nhiều nhân vật khác nếu cần -->
+					</div>
+				</div>
+
+			</div>
+
+			<!-- Community Section -->
+			<div class="col-md-4">
+				<!-- Thêm khoảng cách giữa các cột -->
+				<h2 class="heading">DC COMMUNITY</h2>
+				<div class="comunity">
+					<p>HOT TOPICS / GENERAL DISCUSSION</p>
+				</div>
+				<div class="community-links">
+					<p><a href="#">BEST EPISODE TOURNAMENT: BATMAN THE ANIMATED SERIES</a></p>
+					<h4>The votes are in for your favorite BTAS eps! </h4>
+					<p><a href="#">MAY'S DC COMMUNITY FANWORKS THEME: CELEBRATING AAPI HERITAGE MONTH!</a></p>
+					<h4>Time to celebrate our favorite AAPI characters! </h4>
+					<p><a href="#">SUPERMAN WITH LONG HAIR APPRECIATION THREAD (IT'S NOT A MULLET)</a></p>
+					<h4>Business up front... party in the back. </h4>
+					<p><a href="#">DEAR DC DIARY</a></p>
+					<h4>Let's spill some DC secrets...  </h4>
+					<p><a href="#">MORE COMMUNITY >></a></p>
+				</div>
+			</div>
+		</div>
+
+
+		@* middlescroll *@
+		<div class="mb-5"></div>
+		<div class="row justify-content-center">
+			<!-- Thêm class row -->
+			<div class="col-md-12">
+				<div class="text-center mb-4 mt-3">
+					<h1 class="heading">WHO'S WHO: THE JUSTICE LEAGUE</h1>
+				</div>
+				<!-- Thêm cột để chứa nội dung -->
+				<div class="image-scrolling-container">
+					<div class=" row d-flex flex-nowrap image-scroll">
+						<div class=" col-6 col-md-2 character ">
+							<img src="~/images/superman2.jpg" class="img-fluid img2" alt="Deadshot">
+							<p>SUPERMAN</p>
+						</div>
+						<div class=" col-6 col-md-2 character ">
+							<img src="~/images/batman.jpg" class="img-fluid img2" alt="Deadshot">
+							<p>BATMAN</p>
+						</div>
+						<div class=" col-6 col-md-2 character ">
+							<img src="~/images/wonder.jpg" class="img-fluid img2" alt="Deadshot">
+							<p>WONDER WOMAN</p>
+						</div>
+						<div class=" col-6 col-md-2 character ">
+							<img src="~/images/greenlartan.jpg" class="img-fluid img2" alt="Deadshot">
+							<p>GREEN LANTERN</p>
+						</div>
+						<div class=" col-6 col-md-2 character ">
+							<img src="~/images/\aquaman.jpg" class="img-fluid img2" alt="Deadshot">
+							<p>AQUAMAN</p>
+						</div>
+						<div class=" col-6 col-md-2 character ">
+							<img src="~/images/theflash.jpg" class="img-fluid img2" alt="Deadshot">
+							<p>THE FLASH</p>
+						</div>
+						<div class=" col-6 col-md-2 character ">
+							<img src="~/images/cybry.jpg" class="img-fluid img2" alt="Deadshot">
+							<p>CYBORG</p>
+						</div>
+						<!-- Bạn có thể thêm nhiều nhân vật khác nếu cần -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>>
+</section>
+
+@* info-character *@
+<div class="container " style="width:90%">
+	<div class="row">
+		<!-- Sidebar Filters -->
+		<div class="col-md-4 col-lg-3 filter-section p-4">
+			@Html.Partial("_SidebarPartial")
+		</div>
+		<!-- Character Cards Section -->
+		<div class="col-md-8 col-lg-9 p-4">
+			<div class="d-flex justify-content-between align-items-center mb-3">
+				<h2 class="heading"> BROWSE CHARACTERS</h2>
+			</div>
+		
+			<div class="row gx-5" style="cursor: pointer;">
+				<div class="col-6 col-md-3 ">
+					<img src="~/images/alanscoot.jpg" class="img-fluid" alt="Alan Scott">
+					<h4 class="title_name">ALAN SCOTT</h4>
+				</div>
+				<div class="col-6 col-md-3 ">
+					<img src="~/images/alanscoot.jpg" class="img-fluid" alt="Alan Scott">
+					<h4 class="title_name">ALFRED Lu</h4>
+				</div>
+				<div class="col-6 col-md-3 ">
+					<img src="~/images/alanscoot.jpg" class="img-fluid" alt="Alan Scott">
+					<h4 class="title_name">ALFRED PENNYWORTH</h4>
+				</div>
+				<div class="col-6 col-md-3 ">
+					<img src="~/images/alanscoot.jpg" class="img-fluid" alt="Alan Scott">
+					<h4 class="title_name">ALFRED PENNYWORTH</h4>
+				</div>
+				<div class="col-6 col-md-3 ">
+					<img src="~/images/alanscoot.jpg" class="img-fluid" alt="Alan Scott">
+					<h4 class="title_name">ALFRED PENNYWORTH</h4>
+				</div>
+				<!-- Add more character items as needed -->
+			</div>
+
+
+
+			<!-- Pagination -->
+			<nav aria-label="Character Pagination">
+				<ul class="pagination justify-content-center mt-4" id="paginationContainer"></ul>
+			</nav>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+

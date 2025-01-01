@@ -1,0 +1,276 @@
+﻿/* card */
+
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.card-img-top {
+    object-fit: cover;
+    height: 300px;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card-title {
+    margin-bottom: 10px;
+}
+
+    .card-title span {
+        font-size: 0.8rem;
+    }
+
+.btn-container {
+    margin-top: auto;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+    transition: background-color 0.3s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container-fluid {
+    --bs-gutter-x: 0; /* Loại bỏ khoảng cách ngang giữa các cột */
+    padding: 0 !important; /* Loại bỏ padding */
+    margin: 0 !important; /* Loại bỏ margin */
+}
+
+.heading {
+    font-family: "Oswald",Verdana,Arial,fantasy;
+    text-align: left;
+    font-weight: 700 !important;
+    font-size: 2rem;
+}
+
+
+
+.character {
+    display: flex; /* Sử dụng flexbox để căn giữa */
+    flex-direction: column; /* Sắp xếp các phần tử theo chiều dọc */
+    align-items: center; /* Căn giữa các phần tử theo chiều ngang */
+    flex: 0 0 auto; /* Ngăn hình ảnh co giãn, giữ kích thước cố định */
+    margin: 5px; /* Khoảng cách giữa các hình ảnh */
+}
+    .character p {
+        font-weight: 900 !important;
+        font-size: 1.1rem;
+        text-align: center; /* Căn giữa chữ dưới hình ảnh */
+        flex-shrink: 0; /* Đảm bảo không co lại khi cuộn */
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-family: : "Oswald", Verdana, Arial, fantasy;
+        margin: 0; /* Gỡ bỏ margin mặc định */
+        line-height: 1.2; /* Khoảng cách giữa các dòng */
+        max-height: 70px; /* Đặt chiều cao tối đa cho phần tên nhân vật */
+        overflow: hidden; /* Ẩn phần thừa ra ngoài */
+        white-space: normal; /* Cho phép văn bản xuống dòng */
+    }
+
+
+
+.image-scrolling-container {
+    overflow-x: auto; /* Cho phép cuộn ngang */
+    white-space: nowrap; /* Giữ cho các hình ảnh trong cùng một hàng */
+    width: 100%; /* Chiều rộng của container */
+    padding: 5px; /* Tùy chọn: khoảng cách bên trong */
+    justify-content: center;
+    margin: 0;
+   
+}
+
+.img2 {
+    cursor: pointer;
+    width:180px;
+    height:350px;
+}
+
+.image-scroll {    
+    display: flex; /* Sử dụng flexbox để giữ các item trong cùng một hàng */
+    flex-wrap: nowrap; /* Đảm bảo không có hình ảnh nào bị xuống hàng */
+
+}
+
+
+
+
+/*filter*/
+
+.filter-section {
+    border-right: 1px solid #ddd;
+}
+
+.filter-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    padding: 10px 0;
+    font-weight: bold; 
+}
+    .filter-header h4 {
+        font-family: Verdana,Arial,fantasy;
+        font-weight: 600 !important;
+        font-size: 1.5rem;
+    }
+.custom-label {
+    
+    font-size: 1.1rem;
+    font-weight: normal;
+    text-decoration: none !important;
+    /*color: #007bff;*/ /* Màu xanh dương */
+    cursor: pointer; /* Thay đổi con trỏ khi di chuột qua */
+    margin-bottom: 0.5rem; /* Khoảng cách bên dưới */
+}
+.toggle-icon {
+    font-size: 1.1rem;
+}
+
+
+
+
+
+.character-card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.character-card h5 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.title_name  {
+    text-align: center;
+    margin-top: 15px;  
+    padding-top:10px;
+    padding-bottom:30%;
+    font-family: Verdana,Arial,fantasy;
+    margin: 0; /* Gỡ bỏ margin mặc định */
+    font-size: 1rem;
+    font-weight: bold;
+    max-height: 90px; /* Đặt chiều cao tối đa cho phần tên nhân vật */
+    overflow: hidden; /* Ẩn phần thừa ra ngoài */
+    white-space: normal; /* Cho phép văn bản xuống dòn*/
+}
+
+@media (max-width: 896px) {
+    .title_name {
+        text-align: center;      
+   
+   
+        font-family: Verdana,Arial,fantasy;     
+        font-size: 1rem;
+        font-weight: bold;
+        max-height: 60px; /* Đặt chiều cao tối đa cho phần tên nhân vật */
+        overflow: hidden; /* Ẩn phần thừa ra ngoài */
+        white-space: normal; /* Cho phép văn bản xuống dòn*/
+    }
+}
+
+.sort-menu-container {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.sort-menu {
+    position: relative;
+    display: inline-block;
+}
+
+.sort-button {
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.sort-dropdown {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 150px;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+    .sort-dropdown a {
+        font-size:15px;
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+        .sort-dropdown a:hover {
+            background-color: #f1f1f1;
+        }
+
+.sort-menu:hover .sort-dropdown {
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.community-links a {   
+    font-size: 1rem;
+    color: #0074e8;
+    font-weight: 700;
+    text-decoration: none;
+}
+.community-links h4 {
+    font-weight: 600 !important;
+    font-size: 1rem;
+}
+
+/*
+.community-links a:hover {
+    text-decoration: underline;
+}*/
+    .comunity p {
+    font-family: Verdana,Arial,fantasy;    
+    font-weight: 600 !important;
+    font-size: 1.35em;
+}
+

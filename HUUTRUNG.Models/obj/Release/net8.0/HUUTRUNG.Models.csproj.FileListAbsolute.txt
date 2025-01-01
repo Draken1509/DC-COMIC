@@ -1,0 +1,13 @@
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Models\bin\Release\net8.0\HUUTRUNG.Models.deps.json
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Models\bin\Release\net8.0\HUUTRUNG.Models.dll
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Models\bin\Release\net8.0\HUUTRUNG.Models.pdb
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Models\obj\Release\net8.0\HUUTRUNG.Models.csproj.AssemblyReference.cache
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Models\obj\Release\net8.0\HUUTRUNG.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Models\obj\Release\net8.0\HUUTRUNG.Models.AssemblyInfoInputs.cache
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Models\obj\Release\net8.0\HUUTRUNG.Models.AssemblyInfo.cs
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Models\obj\Release\net8.0\HUUTRUNG.Models.csproj.CoreCompileInputs.cache
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Models\obj\Release\net8.0\HUUTRUNG.Models.sourcelink.json
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Models\obj\Release\net8.0\HUUTRUNG.Models.dll
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Models\obj\Release\net8.0\refint\HUUTRUNG.Models.dll
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Models\obj\Release\net8.0\HUUTRUNG.Models.pdb
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Models\obj\Release\net8.0\ref\HUUTRUNG.Models.dll

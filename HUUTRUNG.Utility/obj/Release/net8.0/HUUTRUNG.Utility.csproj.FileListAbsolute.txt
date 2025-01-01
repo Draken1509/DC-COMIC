@@ -1,0 +1,13 @@
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Utility\bin\Release\net8.0\HUUTRUNG.Utility.deps.json
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Utility\bin\Release\net8.0\HUUTRUNG.Utility.dll
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Utility\bin\Release\net8.0\HUUTRUNG.Utility.pdb
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Utility\obj\Release\net8.0\HUUTRUNG.Utility.csproj.AssemblyReference.cache
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Utility\obj\Release\net8.0\HUUTRUNG.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Utility\obj\Release\net8.0\HUUTRUNG.Utility.AssemblyInfoInputs.cache
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Utility\obj\Release\net8.0\HUUTRUNG.Utility.AssemblyInfo.cs
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Utility\obj\Release\net8.0\HUUTRUNG.Utility.csproj.CoreCompileInputs.cache
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Utility\obj\Release\net8.0\HUUTRUNG.Utility.sourcelink.json
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Utility\obj\Release\net8.0\HUUTRUNG.Utility.dll
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Utility\obj\Release\net8.0\refint\HUUTRUNG.Utility.dll
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Utility\obj\Release\net8.0\HUUTRUNG.Utility.pdb
+D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Utility\obj\Release\net8.0\ref\HUUTRUNG.Utility.dll
