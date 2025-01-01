@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TTnBxvneauacPiZQToPoDnonBVP/L2QJM4pxmVmu5DQ=",
+  "Hash": "fC1cYFIEPOOk+w3Dqq+5pevK9P38fg/v6rg01qjBfUo=",
   "Source": "HUUTRUNGWEB",
   "BasePath": "_content/HUUTRUNGWEB",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "HUUTRUNGWEB\\wwwroot",
       "Source": "HUUTRUNGWEB",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "Pattern": "**"
     }
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.11\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\obj\\Release\\net8.0\\win-x86\\scopedcss\\bundle\\HUUTRUNGWEB.styles.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\obj\\Release\\net8.0\\win-x86\\scopedcss\\bundle\\HUUTRUNGWEB.styles.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\obj\\Release\\net8.0\\win-x86\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\obj\\Release\\net8.0\\win-x86\\scopedcss\\bundle\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "HUUTRUNGWEB.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\obj\\Release\\net8.0\\win-x86\\scopedcss\\bundle\\HUUTRUNGWEB.styles.css"
+      "OriginalItemSpec": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\obj\\Release\\net8.0\\win-x86\\scopedcss\\bundle\\HUUTRUNGWEB.styles.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\obj\\Release\\net8.0\\win-x86\\scopedcss\\projectbundle\\HUUTRUNGWEB.bundle.scp.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\obj\\Release\\net8.0\\win-x86\\scopedcss\\projectbundle\\HUUTRUNGWEB.bundle.scp.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\obj\\Release\\net8.0\\win-x86\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\obj\\Release\\net8.0\\win-x86\\scopedcss\\projectbundle\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "HUUTRUNGWEB.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\obj\\Release\\net8.0\\win-x86\\scopedcss\\projectbundle\\HUUTRUNGWEB.bundle.scp.css"
+      "OriginalItemSpec": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\obj\\Release\\net8.0\\win-x86\\scopedcss\\projectbundle\\HUUTRUNGWEB.bundle.scp.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\animate.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\css\\animate.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "css/animate.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\character.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\css\\character.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "css/character.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\css\\character.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\home.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\css\\home.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "css/home.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\home.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\main.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\css\\main.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\navbar.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\css\\navbar.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "css/navbar.css",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\css\\navbar.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\pagination.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\css\\pagination.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "css/pagination.css",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\css\\pagination.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\prettyPhoto.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\css\\prettyPhoto.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "css/prettyPhoto.css",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\css\\prettyPhoto.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\price-range.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\css\\price-range.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "css/price-range.css",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\css\\price-range.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\css\\responsive.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\css\\responsive.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\favicon.ico",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\favicon.ico",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\alanscoot.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\alanscoot.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/alanscoot.jpg",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\images\\alanscoot.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\aquaman.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\aquaman.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/aquaman.jpg",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\images\\aquaman.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\background\\bgOrder.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\background\\bgOrder.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/background/bgOrder.jpg",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background\\bgOrder.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\background\\intro-video-bg.de424f1.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\background\\intro-video-bg.de424f1.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/background/intro-video-bg.de424f1.jpg",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background\\intro-video-bg.de424f1.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\background\\NoAccess.png",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\background\\NoAccess.png",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/background/NoAccess.png",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background\\NoAccess.png"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\banner.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\banner.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/banner.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\banner-news-1.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\banner-news-1.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/banner-news-1.jpg",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-news-1.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\banner-news-2.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\banner-news-2.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/banner-news-2.jpg",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-news-2.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\banner-news-3.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\banner-news-3.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/banner-news-3.jpg",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-news-3.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\banner-news-4.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\banner-news-4.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/banner-news-4.jpg",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-news-4.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\batman.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\batman.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/batman.jpg",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\images\\batman.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\bome.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\bome.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/bome.jpg",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bome.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\bottom-left-1.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\bottom-left-1.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/bottom-left-1.jpg",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bottom-left-1.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\bottom-left-2.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\bottom-left-2.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/bottom-left-2.jpg",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bottom-left-2.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\Cassandra.avif",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\Cassandra.avif",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/Cassandra.avif",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Cassandra.avif"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\Cassandra.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\Cassandra.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/Cassandra.jpg",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Cassandra.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\7660edfc-f4c1-4a51-ba63-28e3cc360137.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\7660edfc-f4c1-4a51-ba63-28e3cc360137.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/7660edfc-f4c1-4a51-ba63-28e3cc360137.jpg",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\7660edfc-f4c1-4a51-ba63-28e3cc360137.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\8380bca7-e12a-4eb8-ab83-d0b845ab65b3.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\8380bca7-e12a-4eb8-ab83-d0b845ab65b3.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/8380bca7-e12a-4eb8-ab83-d0b845ab65b3.jpg",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\8380bca7-e12a-4eb8-ab83-d0b845ab65b3.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\a9d113fe-6ae5-46d7-a805-fef855dbac5a.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\a9d113fe-6ae5-46d7-a805-fef855dbac5a.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/a9d113fe-6ae5-46d7-a805-fef855dbac5a.jpg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\a9d113fe-6ae5-46d7-a805-fef855dbac5a.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\ABSOLUTE_SUPERMAN_1.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\ABSOLUTE_SUPERMAN_1.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/ABSOLUTE_SUPERMAN_1.jpg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\ABSOLUTE_SUPERMAN_1.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_149.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_149.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/BATMAN_149.jpg",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\BATMAN_149.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_151.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_151.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/BATMAN_151.jpg",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\BATMAN_151.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_152.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_152.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/BATMAN_152.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\BATMAN_152.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_153.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_153.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/BATMAN_153.jpg",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\BATMAN_153.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_154.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_154.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/BATMAN_154.jpg",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\BATMAN_154.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_155.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_155.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/BATMAN_155.jpg",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\BATMAN_155.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_HORROR_PRESENTS_CREATURE_2.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_HORROR_PRESENTS_CREATURE_2.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DC_HORROR_PRESENTS_CREATURE_2.jpg",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DC_HORROR_PRESENTS_CREATURE_2.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_1.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_1.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DC_VS_VAMPIRES_WORLD_WAR_V_1.jpg",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_1.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_3.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_3.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DC_VS_VAMPIRES_WORLD_WAR_V_3.jpg",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_3.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_4.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_4.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DC_VS_VAMPIRES_WORLD_WAR_V_4.jpg",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_4.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR PRESENTS1.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR PRESENTS1.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DCHORROR PRESENTS1.jpg",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DCHORROR PRESENTS1.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR PRESENTS2.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR PRESENTS2.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DCHORROR PRESENTS2.jpg",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DCHORROR PRESENTS2.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\01.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\01.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DCHORROR_PRESENTS1/01.jpg",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\01.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\02.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\02.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DCHORROR_PRESENTS1/02.jpg",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\02.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\03.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\03.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DCHORROR_PRESENTS1/03.jpg",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\03.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\04.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\04.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DCHORROR_PRESENTS1/04.jpg",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\04.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\05.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\05.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DCHORROR_PRESENTS1/05.jpg",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\05.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\06.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\06.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DCHORROR_PRESENTS1/06.jpg",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\06.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\07.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\07.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DCHORROR_PRESENTS1/07.jpg",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\07.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\08.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\08.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DCHORROR_PRESENTS1/08.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\08.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\09.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\09.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DCHORROR_PRESENTS1/09.jpg",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\09.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\10.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\10.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic/DCHORROR_PRESENTS1/10.jpg",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic\\DCHORROR_PRESENTS1\\10.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic1.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic1.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic1.jpg",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic1.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\comic2.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic2.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/comic2.jpg",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comic2.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\cybry.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\cybry.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/cybry.jpg",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cybry.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\dc-logo-313x313.svg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\dc-logo-313x313.svg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/dc-logo-313x313.svg",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dc-logo-313x313.svg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\deadshot.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\deadshot.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/deadshot.jpg",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\deadshot.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\greenlartan.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\greenlartan.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/greenlartan.jpg",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\images\\greenlartan.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\harlyquin.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\harlyquin.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/harlyquin.jpg",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\images\\harlyquin.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\home\\comic.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\home\\comic.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/home/comic.jpg",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\comic.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\home\\movie.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\home\\movie.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/home/movie.jpg",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\movie.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\home\\news.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\home\\news.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/home/news.jpg",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\news.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\home\\z6143987872823_6bac3f30b360e96a056ed925f54df96f.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\home\\z6143987872823_6bac3f30b360e96a056ed925f54df96f.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/home/z6143987872823_6bac3f30b360e96a056ed925f54df96f.jpg",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\z6143987872823_6bac3f30b360e96a056ed925f54df96f.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\jokerandladygaga.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\jokerandladygaga.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/jokerandladygaga.jpg",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\jokerandladygaga.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\kingshark.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\kingshark.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/kingshark.jpg",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\images\\kingshark.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\BLUE_BEELTE.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\movie\\BLUE_BEELTE.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/movie/BLUE_BEELTE.jpg",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\images\\movie\\BLUE_BEELTE.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\CRIS_OF_INFINITITE.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\movie\\CRIS_OF_INFINITITE.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/movie/CRIS_OF_INFINITITE.jpg",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\images\\movie\\CRIS_OF_INFINITITE.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\JOKER.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\movie\\JOKER.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/movie/JOKER.jpg",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\images\\movie\\JOKER.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\Justice_League_RWBY_Super_Heroes_Huntsmen_Part_One_2023.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\movie\\Justice_League_RWBY_Super_Heroes_Huntsmen_Part_One_2023.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/movie/Justice_League_RWBY_Super_Heroes_Huntsmen_Part_One_2023.jpg",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\images\\movie\\Justice_League_RWBY_Super_Heroes_Huntsmen_Part_One_2023.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\Justice_League_War_world_2023.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\movie\\Justice_League_War_world_2023.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/movie/Justice_League_War_world_2023.jpg",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\images\\movie\\Justice_League_War_world_2023.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\JusticeLeague_Crisis_on_Infinite_Earths_Part_One_2024.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\movie\\JusticeLeague_Crisis_on_Infinite_Earths_Part_One_2024.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/movie/JusticeLeague_Crisis_on_Infinite_Earths_Part_One_2024.jpg",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\images\\movie\\JusticeLeague_Crisis_on_Infinite_Earths_Part_One_2024.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\JusticeLeague_Crisis_on_Infinite_Earths_Part_Three_2024.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\movie\\JusticeLeague_Crisis_on_Infinite_Earths_Part_Three_2024.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/movie/JusticeLeague_Crisis_on_Infinite_Earths_Part_Three_2024.jpg",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\images\\movie\\JusticeLeague_Crisis_on_Infinite_Earths_Part_Three_2024.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\JusticeLeague_Crisis_on_Infinite_Earths_Part_Two_2024.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\movie\\JusticeLeague_Crisis_on_Infinite_Earths_Part_Two_2024.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/movie/JusticeLeague_Crisis_on_Infinite_Earths_Part_Two_2024.jpg",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\images\\movie\\JusticeLeague_Crisis_on_Infinite_Earths_Part_Two_2024.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\Merry_Little_Batman_2023.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\movie\\Merry_Little_Batman_2023.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/movie/Merry_Little_Batman_2023.jpg",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\images\\movie\\Merry_Little_Batman_2023.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\THE_BATMAN.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\movie\\THE_BATMAN.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/movie/THE_BATMAN.jpg",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\images\\movie\\THE_BATMAN.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\z6139198546794_432b9f8a70876a225ea10ee08cba7853.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\movie\\z6139198546794_432b9f8a70876a225ea10ee08cba7853.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/movie/z6139198546794_432b9f8a70876a225ea10ee08cba7853.jpg",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\images\\movie\\z6139198546794_432b9f8a70876a225ea10ee08cba7853.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\z6139198563426_23b5a2e1614932e602de5a9abb10ab91.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\movie\\z6139198563426_23b5a2e1614932e602de5a9abb10ab91.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/movie/z6139198563426_23b5a2e1614932e602de5a9abb10ab91.jpg",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\images\\movie\\z6139198563426_23b5a2e1614932e602de5a9abb10ab91.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\movie\\z6139198602653_f7e7033ccc7b4e98ed66b27923657ada.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\movie\\z6139198602653_f7e7033ccc7b4e98ed66b27923657ada.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/movie/z6139198602653_f7e7033ccc7b4e98ed66b27923657ada.jpg",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\images\\movie\\z6139198602653_f7e7033ccc7b4e98ed66b27923657ada.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\289fb841-02ee-4cf5-abb6-e1212ff97d41.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\289fb841-02ee-4cf5-abb6-e1212ff97d41.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/289fb841-02ee-4cf5-abb6-e1212ff97d41.jpg",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\289fb841-02ee-4cf5-abb6-e1212ff97d41.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\404b5dd7-5fec-4ddd-aaeb-864efe5c37c3.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\404b5dd7-5fec-4ddd-aaeb-864efe5c37c3.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/404b5dd7-5fec-4ddd-aaeb-864efe5c37c3.jpg",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\404b5dd7-5fec-4ddd-aaeb-864efe5c37c3.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\826875b1-1566-4a02-8842-9ea7a5517c50.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\826875b1-1566-4a02-8842-9ea7a5517c50.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/826875b1-1566-4a02-8842-9ea7a5517c50.jpg",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\826875b1-1566-4a02-8842-9ea7a5517c50.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\85a82a04-ceb3-4a55-8ee4-d7ff1a9367a8.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\85a82a04-ceb3-4a55-8ee4-d7ff1a9367a8.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/85a82a04-ceb3-4a55-8ee4-d7ff1a9367a8.jpg",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\85a82a04-ceb3-4a55-8ee4-d7ff1a9367a8.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\97969062-c155-46a5-8379-912cbee7b840.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\97969062-c155-46a5-8379-912cbee7b840.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/97969062-c155-46a5-8379-912cbee7b840.jpg",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\97969062-c155-46a5-8379-912cbee7b840.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\a1c302fa-e617-4943-9fb1-6b6e0e7c23e3.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\a1c302fa-e617-4943-9fb1-6b6e0e7c23e3.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/a1c302fa-e617-4943-9fb1-6b6e0e7c23e3.jpg",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\a1c302fa-e617-4943-9fb1-6b6e0e7c23e3.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\a90fd598-7fd8-46d7-a2df-07b69c2d78db.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\a90fd598-7fd8-46d7-a2df-07b69c2d78db.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/a90fd598-7fd8-46d7-a2df-07b69c2d78db.jpg",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\a90fd598-7fd8-46d7-a2df-07b69c2d78db.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\BATMAN.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\BATMAN.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/BATMAN.jpg",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\BATMAN.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\COUPLE.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\COUPLE.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/COUPLE.jpg",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\COUPLE.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\d28441c4-3a7b-4020-bdeb-f0e406aa5b54.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\d28441c4-3a7b-4020-bdeb-f0e406aa5b54.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/d28441c4-3a7b-4020-bdeb-f0e406aa5b54.jpg",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\d28441c4-3a7b-4020-bdeb-f0e406aa5b54.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\dfd4bfd9-a2d3-40c5-b542-9aabcbc803d2.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\dfd4bfd9-a2d3-40c5-b542-9aabcbc803d2.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/dfd4bfd9-a2d3-40c5-b542-9aabcbc803d2.jpg",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\dfd4bfd9-a2d3-40c5-b542-9aabcbc803d2.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\e44b0a19-eb16-4205-aa29-d201fcefcbc2.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\e44b0a19-eb16-4205-aa29-d201fcefcbc2.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/e44b0a19-eb16-4205-aa29-d201fcefcbc2.jpg",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\e44b0a19-eb16-4205-aa29-d201fcefcbc2.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\JAMEJUMNE.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\JAMEJUMNE.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/JAMEJUMNE.jpg",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\JAMEJUMNE.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\JOKER2.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\JOKER2.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/JOKER2.jpg",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\JOKER2.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\LADYGAGA.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\LADYGAGA.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/LADYGAGA.jpg",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\LADYGAGA.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\SUPERMANSCRY.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\SUPERMANSCRY.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/SUPERMANSCRY.jpg",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\SUPERMANSCRY.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\news\\WATCHMAN.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\news\\WATCHMAN.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/news/WATCHMAN.jpg",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news\\WATCHMAN.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\product8.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\product8.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/product8.jpg",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product8.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\right-1.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\right-1.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/right-1.jpg",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\images\\right-1.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\right-2.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\right-2.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/right-2.jpg",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\right-2.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\right-3.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\right-3.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/right-3.jpg",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\images\\right-3.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\right-4.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\right-4.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/right-4.jpg",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\images\\right-4.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\right-5.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\right-5.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/right-5.jpg",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\images\\right-5.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\silder_home.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\silder_home.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/silder_home.jpg",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\images\\silder_home.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\superman.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\superman.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/superman.jpg",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\images\\superman.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\superman2.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\superman2.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/superman2.jpg",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\images\\superman2.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\theflash.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\theflash.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/theflash.jpg",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\theflash.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\thumb-1920-1148436.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\thumb-1920-1148436.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/thumb-1920-1148436.jpg",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thumb-1920-1148436.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\thumbail_1.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\thumbail_1.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/thumbail_1.jpg",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thumbail_1.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\top-left.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\top-left.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/top-left.jpg",
       "AssetKind": "All",
@@ -3380,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\images\\top-left.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\images\\wonder.jpg",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\wonder.jpg",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "images/wonder.jpg",
       "AssetKind": "All",
@@ -3399,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\images\\wonder.jpg"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3418,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\character.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\character.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/character.js",
       "AssetKind": "All",
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\js\\character.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\comic.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\comic.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/comic.js",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\js\\comic.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\company.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\company.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/company.js",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\contact.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\contact.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/contact.js",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\js\\contact.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\gmaps.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\gmaps.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/gmaps.js",
       "AssetKind": "All",
@@ -3513,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\js\\gmaps.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\html5shiv.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\html5shiv.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/html5shiv.js",
       "AssetKind": "All",
@@ -3532,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\js\\html5shiv.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\jquery.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\jquery.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/jquery.js",
       "AssetKind": "All",
@@ -3551,10 +3551,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\jquery.prettyPhoto.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/jquery.prettyPhoto.js",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.prettyPhoto.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\jquery.scrollUp.min.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/jquery.scrollUp.min.js",
       "AssetKind": "All",
@@ -3589,10 +3589,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\main.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\main.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -3608,10 +3608,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\news.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\news.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/news.js",
       "AssetKind": "All",
@@ -3627,10 +3627,10 @@
       "OriginalItemSpec": "wwwroot\\js\\news.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\order.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\order.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/order.js",
       "AssetKind": "All",
@@ -3646,10 +3646,10 @@
       "OriginalItemSpec": "wwwroot\\js\\order.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\price-range.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\price-range.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/price-range.js",
       "AssetKind": "All",
@@ -3665,10 +3665,10 @@
       "OriginalItemSpec": "wwwroot\\js\\price-range.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\slider.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\slider.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/slider.js",
       "AssetKind": "All",
@@ -3684,10 +3684,10 @@
       "OriginalItemSpec": "wwwroot\\js\\slider.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\js\\user.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\js\\user.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "js/user.js",
       "AssetKind": "All",
@@ -3703,10 +3703,10 @@
       "OriginalItemSpec": "wwwroot\\js\\user.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -3722,10 +3722,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -3741,10 +3741,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -3760,10 +3760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -3779,10 +3779,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -3798,10 +3798,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -3817,10 +3817,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -3836,10 +3836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -3855,10 +3855,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -3874,10 +3874,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -3912,10 +3912,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -3931,10 +3931,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -3950,10 +3950,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -3969,10 +3969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -3988,10 +3988,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -4007,10 +4007,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -4026,10 +4026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -4045,10 +4045,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -4064,10 +4064,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -4083,10 +4083,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -4102,10 +4102,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -4121,10 +4121,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -4140,10 +4140,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -4159,10 +4159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -4178,10 +4178,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -4197,10 +4197,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -4216,10 +4216,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -4235,10 +4235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -4254,10 +4254,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -4273,10 +4273,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -4292,10 +4292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -4311,10 +4311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -4330,10 +4330,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -4349,10 +4349,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -4368,10 +4368,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -4387,10 +4387,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -4406,10 +4406,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -4425,10 +4425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -4444,10 +4444,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -4463,10 +4463,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -4482,10 +4482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -4501,10 +4501,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -4520,10 +4520,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -4539,10 +4539,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -4558,10 +4558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -4577,10 +4577,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -4596,10 +4596,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -4615,10 +4615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -4634,10 +4634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -4653,10 +4653,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -4672,10 +4672,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -4691,10 +4691,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -4710,10 +4710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -4729,10 +4729,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -4748,10 +4748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -4767,10 +4767,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "HUUTRUNGWEB",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\wwwroot\\",
+      "ContentRoot": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\",
       "BasePath": "_content/HUUTRUNGWEB",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

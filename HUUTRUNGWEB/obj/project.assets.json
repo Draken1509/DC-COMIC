@@ -14174,11 +14174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\HUUTRUNGWEB.csproj",
+      "projectUniqueName": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\HUUTRUNGWEB.csproj",
       "projectName": "HUUTRUNGWEB",
-      "projectPath": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\HUUTRUNGWEB.csproj",
+      "projectPath": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\HUUTRUNGWEB.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNGWEB\\obj\\",
+      "outputPath": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -14196,8 +14196,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.DataAccess\\HUUTRUNG.DataAccess.csproj": {
-              "projectPath": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.DataAccess\\HUUTRUNG.DataAccess.csproj"
+            "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.DataAccess\\HUUTRUNG.DataAccess.csproj": {
+              "projectPath": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.DataAccess\\HUUTRUNG.DataAccess.csproj"
             }
           }
         }

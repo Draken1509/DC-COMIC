@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.DataAccess\\HUUTRUNG.DataAccess.csproj": {}
+    "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.DataAccess\\HUUTRUNG.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.DataAccess\\HUUTRUNG.DataAccess.csproj": {
+    "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.DataAccess\\HUUTRUNG.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.DataAccess\\HUUTRUNG.DataAccess.csproj",
+        "projectUniqueName": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.DataAccess\\HUUTRUNG.DataAccess.csproj",
         "projectName": "HUUTRUNG.DataAccess",
-        "projectPath": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.DataAccess\\HUUTRUNG.DataAccess.csproj",
+        "projectPath": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.DataAccess\\HUUTRUNG.DataAccess.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.DataAccess\\obj\\",
+        "outputPath": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.Models\\HUUTRUNG.Models.csproj": {
-                "projectPath": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.Models\\HUUTRUNG.Models.csproj"
+              "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.Models\\HUUTRUNG.Models.csproj": {
+                "projectPath": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.Models\\HUUTRUNG.Models.csproj"
               },
-              "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.Utility\\HUUTRUNG.Utility.csproj": {
-                "projectPath": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.Utility\\HUUTRUNG.Utility.csproj"
+              "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.Utility\\HUUTRUNG.Utility.csproj": {
+                "projectPath": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.Utility\\HUUTRUNG.Utility.csproj"
               }
             }
           }
@@ -94,16 +94,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
       }
     },
-    "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.Models\\HUUTRUNG.Models.csproj": {
+    "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.Models\\HUUTRUNG.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.Models\\HUUTRUNG.Models.csproj",
+        "projectUniqueName": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.Models\\HUUTRUNG.Models.csproj",
         "projectName": "HUUTRUNG.Models",
-        "projectPath": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.Models\\HUUTRUNG.Models.csproj",
+        "projectPath": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.Models\\HUUTRUNG.Models.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.Models\\obj\\",
+        "outputPath": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -169,16 +174,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
       }
     },
-    "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.Utility\\HUUTRUNG.Utility.csproj": {
+    "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.Utility\\HUUTRUNG.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.Utility\\HUUTRUNG.Utility.csproj",
+        "projectUniqueName": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.Utility\\HUUTRUNG.Utility.csproj",
         "projectName": "HUUTRUNG.Utility",
-        "projectPath": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.Utility\\HUUTRUNG.Utility.csproj",
+        "projectPath": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.Utility\\HUUTRUNG.Utility.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.Utility\\obj\\",
+        "outputPath": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -243,6 +253,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3DzTKWpo9nY=",
+  "dgSpecHash": "TRZjhyy1tHQ=",
   "success": true,
-  "projectFilePath": "D:\\GITHUB\\Dự án cá nhân NET\\BookStore\\HUUTRUNG\\HUUTRUNG.Utility\\HUUTRUNG.Utility.csproj",
+  "projectFilePath": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.Utility\\HUUTRUNG.Utility.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.11\\microsoft.aspnetcore.cryptography.internal.8.0.11.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.11\\microsoft.aspnetcore.cryptography.keyderivation.8.0.11.nupkg.sha512",

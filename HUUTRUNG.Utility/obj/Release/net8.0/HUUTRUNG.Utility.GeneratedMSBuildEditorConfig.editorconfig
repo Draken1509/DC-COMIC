@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HUUTRUNG.Utility
-build_property.ProjectDir = D:\GITHUB\Dự án cá nhân NET\BookStore\HUUTRUNG\HUUTRUNG.Utility\
+build_property.ProjectDir = D:\GITHUB\Dự án cá nhân NET\DC-COMIC\HUUTRUNG.Utility\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

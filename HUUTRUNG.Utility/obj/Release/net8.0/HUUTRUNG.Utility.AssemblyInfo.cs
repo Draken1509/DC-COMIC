@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HUUTRUNG.Utility")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a414abb3b8c8cf56674b322ea3a8d40003b37340")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0f002a2de9e7394bdec6a0ce64bf4919d30e647")]
 [assembly: System.Reflection.AssemblyProductAttribute("HUUTRUNG.Utility")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HUUTRUNG.Utility")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

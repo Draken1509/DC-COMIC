@@ -170,9 +170,6 @@ namespace HUUTRUNG.DataAccess.Migrations
                     b.Property<bool>("IsFree")
                         .HasColumnType("bit");
 
-                    b.Property<bool>("IsMain")
-                        .HasColumnType("bit");
-
                     b.Property<bool>("IsNew")
                         .HasColumnType("bit");
 

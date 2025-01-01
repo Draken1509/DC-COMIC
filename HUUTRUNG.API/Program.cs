@@ -144,11 +144,17 @@ app.UseCors(options =>
 app.UseAuthentication();
 app.UseAuthorization();
 
-app.UseStaticFiles(new StaticFileOptions
-{
-    FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "..", "HUUTRUNGWEB/wwwroot/images")),  // ".." để đi lên một cấp
-    RequestPath = "/images"  // Đặt đường dẫn cho file tĩnh, ví dụ "/images"
-});
+//app.UseStaticFiles(new StaticFileOptions
+//{
+//	FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "..", "HUUTRUNGWEB/wwwroot/images")),  // ".." để đi lên một cấp
+//	RequestPath = "/images"  // Đặt đường dẫn cho file tĩnh, ví dụ "/images"
+//});
+
+//app.UseStaticFiles(new StaticFileOptions
+//{
+//	FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images")),
+//	RequestPath = "/images"
+//});
 
 
 app.MapControllers(); // *
