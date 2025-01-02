@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HUUTRUNGWEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0f002a2de9e7394bdec6a0ce64bf4919d30e647")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1cb5bcb4ae3cd6ae1d5ad80073a2b1b467a6536")]
 [assembly: System.Reflection.AssemblyProductAttribute("HUUTRUNGWEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HUUTRUNGWEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

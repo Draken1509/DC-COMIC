@@ -12,6 +12,7 @@ using HUUTRUNG.Models.ViewModel.Admin;
 using Microsoft.AspNetCore.Authorization;
 using HUUTRUNG.Utility;
 using HUUTRUNG.Models.Domain;
+using HUUTRUNG_WEBAPI.CustomActionFilters;
 
 namespace HUUTRUNGWEB.Areas.Admin.Controllers
 {
@@ -33,8 +34,10 @@ namespace HUUTRUNGWEB.Areas.Admin.Controllers
                 _unitOfWork.Comic.GetAll(includeProperties: "ComicCategory").ToList();  
             return View(objTypeComicList);
         }
-      
-        public IActionResult Upsert(int? id)
+
+
+		[ValidateModel]
+		public IActionResult Upsert(int? id)
         {
             //ViewBag.TypeComicList = TypeComicList
             //ViewData["TypeComicList"]= TypeComicList

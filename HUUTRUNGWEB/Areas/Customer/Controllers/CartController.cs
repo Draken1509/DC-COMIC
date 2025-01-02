@@ -3,6 +3,7 @@ using HUUTRUNG.Models.Domain;
 using HUUTRUNG.Models.ViewModel.Admin;
 using HUUTRUNG.Models.ViewModel.Customer;
 using HUUTRUNG.Utility;
+using HUUTRUNG_WEBAPI.CustomActionFilters;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -104,16 +105,19 @@ namespace HUUTRUNGWEB.Areas.Customer.Controllers
 			};
 
 			ShoppingCartVM.OrderHeader.ApplicationUser = _unitOfWork.ApplicationUser.Get(u => u.Id == userId);
-
-			ShoppingCartVM.OrderHeader.Name = ShoppingCartVM.OrderHeader.ApplicationUser.Name;
-			ShoppingCartVM.OrderHeader.PhoneNumber = ShoppingCartVM.OrderHeader.ApplicationUser.PhoneNumber;
-			ShoppingCartVM.OrderHeader.StreetAddress = ShoppingCartVM.OrderHeader.ApplicationUser.StreetAddress;
-			ShoppingCartVM.OrderHeader.City = ShoppingCartVM.OrderHeader.ApplicationUser.City;
-			ShoppingCartVM.OrderHeader.State = ShoppingCartVM.OrderHeader.ApplicationUser.Province;
-			ShoppingCartVM.OrderHeader.PostalCode = ShoppingCartVM.OrderHeader.ApplicationUser.Postal;
-
-
-
+			if (ModelState.IsValid)
+			{
+				ShoppingCartVM.OrderHeader.Name = ShoppingCartVM.OrderHeader.ApplicationUser.Name;
+				ShoppingCartVM.OrderHeader.PhoneNumber = ShoppingCartVM.OrderHeader.ApplicationUser.PhoneNumber;
+				ShoppingCartVM.OrderHeader.StreetAddress = ShoppingCartVM.OrderHeader.ApplicationUser.StreetAddress;
+				ShoppingCartVM.OrderHeader.City = ShoppingCartVM.OrderHeader.ApplicationUser.City;
+				ShoppingCartVM.OrderHeader.State = ShoppingCartVM.OrderHeader.ApplicationUser.Province;
+				ShoppingCartVM.OrderHeader.PostalCode = ShoppingCartVM.OrderHeader.ApplicationUser.Postal;
+			}
+			else
+			{
+				return View(nameof(Index));
+			}		
 			foreach (var cart in ShoppingCartVM.ShoppingCartList)
 			{
 				cart.Price = getPrice(cart);
@@ -122,8 +126,9 @@ namespace HUUTRUNGWEB.Areas.Customer.Controllers
 			return View(ShoppingCartVM);
 		}
 
+
 		[HttpPost]
-		[ActionName("Summary")]
+		[ActionName("Summary")]	
 		public IActionResult SummaryPOST()
 		{
 			var claimsIdentity = (ClaimsIdentity)User.Identity;
@@ -156,8 +161,16 @@ namespace HUUTRUNGWEB.Areas.Customer.Controllers
 				ShoppingCartVM.OrderHeader.PaymentStatus = SD.PaymentStatusDelayedPayment;
 				ShoppingCartVM.OrderHeader.OrderStatus = SD.StatusApproved;
 			}
-			_unitOfWork.OrderHeader.Add(ShoppingCartVM.OrderHeader);
-			_unitOfWork.Save();
+			if (ModelState.IsValid) {
+				_unitOfWork.OrderHeader.Add(ShoppingCartVM.OrderHeader);
+				_unitOfWork.Save();
+			}
+			else
+			{
+				return View("Index");
+			}
+			//_unitOfWork.OrderHeader.Add(ShoppingCartVM.OrderHeader);
+		
 
 			foreach (var cart in ShoppingCartVM.ShoppingCartList)
 			{
@@ -204,12 +217,12 @@ namespace HUUTRUNGWEB.Areas.Customer.Controllers
 					options.LineItems.Add(sessionLineItem);
 				}
 
-
 				var service = new SessionService();
 				Session session = service.Create(options);  // tao ra 1 phien thanh toan voi cau hinh o tren
 				_unitOfWork.OrderHeader.UpdateStripePaymentID(ShoppingCartVM.OrderHeader.Id, session.Id, session.PaymentIntentId);
 				_unitOfWork.Save();
 				Response.Headers.Add("Location", session.Url);
+
 				return new StatusCodeResult(303);
 
 			}

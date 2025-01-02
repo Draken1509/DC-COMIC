@@ -94,11 +94,6 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
-      },
-      "runtimes": {
-        "win-x86": {
-          "#import": []
-        }
       }
     },
     "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.Models\\HUUTRUNG.Models.csproj": {
@@ -174,11 +169,6 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
-      },
-      "runtimes": {
-        "win-x86": {
-          "#import": []
-        }
       }
     },
     "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNG.Utility\\HUUTRUNG.Utility.csproj": {
@@ -253,11 +243,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x86": {
-          "#import": []
         }
       }
     }
