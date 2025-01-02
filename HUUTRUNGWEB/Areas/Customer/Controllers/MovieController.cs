@@ -48,7 +48,8 @@ namespace HUUTRUNGWEB.Areas.Customer.Controllers
 				pageNumber: pageNumber,
 				pageSize: pageSize);
 
-			var movieList = _unitOfWork.Movie.GetAll().ToList();  // Từ DB
+
+			var movieList = _unitOfWork.Movie.GetAll(m => m.MovieCategoryId == 1 && m.Thumbnail!=null).ToList();  // Từ DB
 			var movieListIntial = movieList;
 			var take10MovieNewsList = _unitOfWork.News.GetAll().OrderByDescending(n => n.PublishDate).Select(n => new News
 			{
@@ -57,16 +58,19 @@ namespace HUUTRUNGWEB.Areas.Customer.Controllers
 				Tittle = n.Tittle,				
 			}).Take(10).ToList();
 
-			var take10MovieList =  _unitOfWork.Movie.GetAll().OrderByDescending(m => m.PublishDate)
-				.Select(n => new Movie
-				{
-					Id = n.Id,
-					UrlVideo = n.UrlVideo,
-					Title = n.Title,
-					Name=n.Name,
-					
-				})
-				.Take(10).ToList();
+			var take10MovieList = _unitOfWork.Movie.GetAll()
+							.Where(m => m.UrlVideo != null) // Điều kiện UrlVideo không null
+							.OrderByDescending(m => m.PublishDate)
+							.Select(n => new Movie
+							{
+								Id = n.Id,
+								UrlVideo = n.UrlVideo,
+								Title = n.Title,
+								Name = n.Name,
+							})
+							.Take(10)
+							.ToList();
+
 
 			var take10MovieBelongAdventuresList = _unitOfWork.Movie
 				.GetAll(u => u.Genres.Any(g => g.Name == "Adventure"), includeProperties: "Genres")

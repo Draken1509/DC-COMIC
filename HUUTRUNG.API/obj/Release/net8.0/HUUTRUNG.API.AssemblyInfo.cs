@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HUUTRUNG.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c13ad65d5507ed436e068aa8d5bfe6cb0a314db7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a82cce6af49fbdabcc96f0213181cb26cf167897")]
 [assembly: System.Reflection.AssemblyProductAttribute("HUUTRUNG.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HUUTRUNG.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -24,20 +24,20 @@ namespace HUUTRUNG.DataAccess.Repository
              _db.SaveChanges();           
         }
 		public PagedList<Movie> GetMovie(
-			 string? search = null,
-			 string? filterType = null,
-			 string? filterGenre = null,
-			 string? sortBy = null,
-			 int pageNumber = 1,
-			 int pageSize = 8
-		 )
+	 string? search = null,
+	 string? filterType = null,
+	 string? filterGenre = null,
+	 string? sortBy = null,
+	 int pageNumber = 1,
+	 int pageSize = 8
+)
 		{
 			// Điều kiện lọc
 			Expression<Func<Movie, bool>> filter = c =>
+				(c.MovieCategoryId == 1 && c.Thumbnail != null) && // Thêm điều kiện mới
 				(string.IsNullOrEmpty(search) || EF.Functions.Like(c.Name, $"%{search}%")) &&
 				(string.IsNullOrEmpty(filterType) || EF.Functions.Like(c.MovieCategory.Name, $"%{filterType}%")) &&
 				(string.IsNullOrEmpty(filterGenre) || c.Genres.Any(g => EF.Functions.Like(g.Name, $"%{filterGenre}%")));
-
 
 			// Sắp xếp
 			Func<IQueryable<Movie>, IOrderedQueryable<Movie>> orderBy = sortBy?.ToLower() switch
@@ -57,6 +57,7 @@ namespace HUUTRUNG.DataAccess.Repository
 				includeProperties: "Genres"
 			);
 		}
+
 
 	}
 }

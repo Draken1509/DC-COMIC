@@ -30,8 +30,8 @@
         {
             <div class="hot-topic">
                 <img src="~/@item.Thumbnail" alt="@item.Tittle" />
-                <div class="hot-topic-content">                 
-                    <p style="text-decoration:none">@Html.Raw(item.Content.Length > 100 ? item.Content.Substring(0, 300) + "..." : item.Content)</p>
+                <div class="hot-topic-content">
+                    <p style="text-decoration:none">@Html.Raw(item.Content.Length > 70 ? item.Content.Substring(0, 70) + "..." : item.Content)</p>
                     <h5>@item.Tittle</h5>
                     <a asp-action="Details" asp-route-newsId="@item.Id">Read More</a>
                 </div>
@@ -54,7 +54,7 @@
                     <img width="auto !important" src="~/@topArticle.Thumbnail" alt="@topArticle.Tittle">
                     <div>
                         <h4>@topArticle.Tittle</h4>
-                        <p>@Html.Raw(topArticle.Content.Length > 100 ? topArticle.Content.Substring(0, 300) + "..." : topArticle.Content)</p>
+                        <p>@Html.Raw(topArticle.Content.Length > 70 ? topArticle.Content.Substring(0, 70) + "..." : topArticle.Content)</p>
                         <a asp-action="Details" asp-route-newsId="@topArticle.Id">Read More</a>
                     </div>
                 </article>
@@ -68,12 +68,13 @@
                     <img src="~/@article.Thumbnail" alt="@article.Tittle" style="height: 100px !important;">
                     <div>
                         <h4>@article.Tittle</h4>
-                        <p>@Html.Raw(article.Content.Length > 100 ? article.Content.Substring(0, 300) + "..." : article.Content)</p>
+                        <p>@Html.Raw(article.Content.Length > 100 ? article.Content.Substring(0, 100) + "..." : article.Content)</p>
                         <a asp-action="Details" asp-route-newsId="@article.Id">Read More</a>
                     </div>
                 </article>
             }
         </div>
+
     </section>
 
     <section class="main-container-right">
