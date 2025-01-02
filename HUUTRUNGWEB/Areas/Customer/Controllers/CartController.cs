@@ -167,7 +167,7 @@ namespace HUUTRUNGWEB.Areas.Customer.Controllers
 			}
 			else
 			{
-				return View("Index");
+				return View(ShoppingCartVM);
 			}
 			//_unitOfWork.OrderHeader.Add(ShoppingCartVM.OrderHeader);
 		
