@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HUUTRUNG.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1cb5bcb4ae3cd6ae1d5ad80073a2b1b467a6536")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+723d97b7c787583be77a8b1ba61624a255bf3e26")]
 [assembly: System.Reflection.AssemblyProductAttribute("HUUTRUNG.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HUUTRUNG.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -157,8 +157,20 @@
       "PackagePath": "staticwebassets\\images\\comic\\ABSOLUTE_SUPERMAN_1.jpg"
     },
     {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\ABSOLUTE_SUPERMAN_2.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\ABSOLUTE_SUPERMAN_2.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\ABSOLUTE_SUPERMAN_NOIR EDITION_1.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\ABSOLUTE_SUPERMAN_NOIR EDITION_1.jpg"
+    },
+    {
       "Id": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_149.jpg",
       "PackagePath": "staticwebassets\\images\\comic\\BATMAN_149.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_150.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\BATMAN_150.jpg"
     },
     {
       "Id": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\BATMAN_151.jpg",
@@ -229,12 +241,24 @@
       "PackagePath": "staticwebassets\\images\\comic\\DCHORROR_PRESENTS1\\10.jpg"
     },
     {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_HORROR_PRESENTS_CREATURE_1.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DC_HORROR_PRESENTS_CREATURE_1.jpg"
+    },
+    {
       "Id": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_HORROR_PRESENTS_CREATURE_2.jpg",
       "PackagePath": "staticwebassets\\images\\comic\\DC_HORROR_PRESENTS_CREATURE_2.jpg"
     },
     {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_HORROR_PRESENTS_CREATURE_3.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DC_HORROR_PRESENTS_CREATURE_3.jpg"
+    },
+    {
       "Id": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_1.jpg",
       "PackagePath": "staticwebassets\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_1.jpg"
+    },
+    {
+      "Id": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_2.jpg",
+      "PackagePath": "staticwebassets\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_2.jpg"
     },
     {
       "Id": "D:\\GITHUB\\Dự án cá nhân NET\\DC-COMIC\\HUUTRUNGWEB\\wwwroot\\images\\comic\\DC_VS_VAMPIRES_WORLD_WAR_V_3.jpg",

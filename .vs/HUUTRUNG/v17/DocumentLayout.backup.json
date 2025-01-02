@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|d:\\github\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n net\\dc-comic\\huutrungweb\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|solutionrelative:huutrungweb\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|d:\\github\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n net\\dc-comic\\huutrungweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|solutionrelative:huutrungweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Customer\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "HUUTRUNGWEB\\Areas\\Customer\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Customer\\Controllers\\CartController.cs",
-              "RelativeToolTip": "HUUTRUNGWEB\\Areas\\Customer\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAmwKkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T10:14:00.431Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HUUTRUNGWEB\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HUUTRUNGWEB\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T15:30:32.085Z",
               "EditorCaption": ""
             }
           ]

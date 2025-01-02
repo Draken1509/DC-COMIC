@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|d:\\github\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n net\\dc-comic\\huutrungweb\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|solutionrelative:huutrungweb\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,19 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Customer\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "HUUTRUNGWEB\\Areas\\Customer\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Customer\\Controllers\\CartController.cs",
-              "RelativeToolTip": "HUUTRUNGWEB\\Areas\\Customer\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAmwKQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T10:14:00.431Z",
-              "EditorCaption": ""
             }
           ]
         }
