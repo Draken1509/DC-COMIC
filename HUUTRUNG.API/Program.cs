@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileProviders;
+using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
@@ -49,6 +50,20 @@ builder.Services.AddSwaggerGen(options =>
 	});
 });
 
+builder.Services.AddCors(options =>
+{
+	options.AddPolicy(name: "FrontendUI", policy =>
+	{
+		policy.WithOrigins(
+				"https://read-dc-comic-free-fagkdhhadwfjfwcp.southeastasia-01.azurewebsites.net",
+				"http://localhost:4200"
+			)
+			.AllowAnyHeader()
+			.AllowAnyMethod();
+	});
+});
+
+
 // add dbcontext
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -77,8 +92,6 @@ builder.Services.AddIdentityCore<IdentityUser>()
 //fix - lỗi vòng lặp trong get api
 builder.Services.AddControllers().AddJsonOptions(x =>
                 x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
-
-
 
 
 
@@ -125,18 +138,22 @@ app.UseSwaggerUI(options =>
 {
 	options.SwaggerEndpoint("/swagger/v1/swagger.json", "HUUTRUNGAPIv1");
 	options.SwaggerEndpoint("/swagger/v2/swagger.json", "HUUTRUNGAPIv2");
-	options.RoutePrefix =String.Empty;
+    options.RoutePrefix =String.Empty;
 
 });
 
+app.UseCors("FrontendUI");
 app.UseHttpsRedirection();
+app.UseRouting();
 
-app.UseCors(options =>
-		{
-			options.AllowAnyHeader();
-			options.AllowAnyMethod();
-			options.AllowAnyOrigin();
-		});
+
+
+//app.UseCors(options =>
+//		{
+//			options.AllowAnyHeader();
+//			options.AllowAnyMethod();
+//			options.AllowAnyOrigin();
+//		});
 
 
 

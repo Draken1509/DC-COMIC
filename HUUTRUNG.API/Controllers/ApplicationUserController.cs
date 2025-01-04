@@ -40,9 +40,9 @@ namespace HUUTRUNG.API.Controllers
             var commentDTO = _mapper.Map<CommentResponseDTO>(commentDomain);
             return Ok(commentDTO);
         }
-		
-       
-		[Authorize(SD.Role_Customer)]
+
+
+		[Authorize(Roles = SD.Role_Customer)]
 		[HttpPost("rate")]
 		public async Task<IActionResult> RateComic(RatingRequestDTO requestDTO)
 		{
