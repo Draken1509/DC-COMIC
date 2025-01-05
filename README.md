@@ -17,23 +17,30 @@
   - Deloy Azure <br>
 </p>
 <h4>3. Support: Chat gpt, Youtube, Google, etc </h4>
-<div>  <h4> 4.Link domain: </h4> 
-  <p>
-    Link Domain 1 (MVC):read-dc-comic-free-fagkdhhadwfjfwcp.southeastasia-01.azurewebsites.net  <br>
-    Link Doamin 2 (Angular):dceu.azurewebsites.net  <br>
-    Link Doamin 3 (API): dceu-api.azurewebsites.net   <br>
-  </p>
-
-</h4>
-<h4>5. Mô tả ứng dụng </h4>
-<p> Ứng dụng bao gồm 3 phần chính: <br>
-  Phần 1: Tại giao diện dành cho người dùng là cổng thông tin hãng truyện tranh DC, tại đó cho phép người dùng tra cứu những thông tin mới nhất như: truyện tranh, các bộ phim điện ảnh hay dài tập... hay các tin     tức, bên cạnh đó người dùng được phép mua những truyện tranh. <br>
-  
-  Phần 2: Phần dành cho admin, nhân viên, phần này cho phép quản lý các danh mục, quản lý đơn hàng người dùng đặt, tạo và phân quyền người dùng. <br>
-  
-  Phần 3: Phần dành là trang đọc truyện miễn phí với các tính năng như: cho phép lưu, đánh giá, bình luận và đọc truyện tranh. Tuy nhiên nếu người dùng chưa có tài khoản thì chỉ sử dụng được tín năng đọc truyện miễn phí <br>
-</p>
 <div>
+  <h4>4. Link domain:</h4>
+  <ul>
+    <li>Link Domain 1 (MVC): read-dc-comic-free-fagkdhhadwfjfwcp.southeastasia-01.azurewebsites.net</li>
+    <li>Link Domain 2 (Angular): dceu.azurewebsites.net</li>
+    <li>Link Domain 3 (API): dceu-api.azurewebsites.net</li>
+  </ul>
+</div>
+
+<div>
+  <h4>5. Mô tả ứng dụng</h4>
+  <ul>
+    <li>
+      <strong>Phần 1:</strong> Tại giao diện dành cho người dùng là cổng thông tin hãng truyện tranh DC, tại đó cho phép người dùng tra cứu những thông tin mới nhất như: truyện tranh, các bộ phim điện ảnh hay dài tập... hay các tin tức. Bên cạnh đó, người dùng được phép mua những truyện tranh.
+    </li>
+    <li>
+      <strong>Phần 2:</strong> Phần dành cho admin, nhân viên. Phần này cho phép quản lý các danh mục, quản lý đơn hàng người dùng đặt, tạo và phân quyền người dùng.
+    </li>
+    <li>
+      <strong>Phần 3:</strong> Phần dành cho trang đọc truyện miễn phí với các tính năng như: cho phép lưu, đánh giá, bình luận và đọc truyện tranh. Tuy nhiên, nếu người dùng chưa có tài khoản thì chỉ sử dụng được tính năng đọc truyện miễn phí.
+    </li>
+  </ul>
+</div>
+
   <h4>6. Những điều còn hạn chế:</h4>
   <ul>
     <li>Chưa tối ưu code</li>
@@ -51,7 +58,7 @@
 <div> 
   <h4>7. Mô tả một số chức năng quang trọng <br>
     <p> 
-      
+      - 
     </p>
   </h4>
 </div>
