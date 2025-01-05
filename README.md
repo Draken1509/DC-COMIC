@@ -1,6 +1,7 @@
 <h2> DỰ ÁN CÁ NHÂN: DC-COMIC</h1>
 <h3>Timeline: 11/2024 -> 12/2024 (2 tháng)</h3>
 <h4>1. Công nghệ sử dụng</h4> <p>ASP.NET Core MVC,Web API, Entity Framework Core and ASP.NET Core Identity, Angular </p>
+<p> Version: .net 8, angular 16, nodejs 18</p>
 <h4>2. Một số kĩ thuật được sử dụng</h4>
 <p>
   - N-Tier Architecture <br>
