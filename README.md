@@ -20,9 +20,9 @@
 <div>
   <h4>4. Link domain:</h4>
   <ul>
-    <li>Link Domain 1 (MVC): read-dc-comic-free-fagkdhhadwfjfwcp.southeastasia-01.azurewebsites.net</li>
-    <li>Link Domain 2 (Angular): dceu.azurewebsites.net</li>
-    <li>Link Domain 3 (API): dceu-api.azurewebsites.net</li>
+    <li>Link Domain 1 (Angular): https://read-dc-comic-free-fagkdhhadwfjfwcp.southeastasia-01.azurewebsites.net </li>
+    <li>Link Domain 2 (MVC): https://dceu.azurewebsites.net </li>
+    <li>Link Domain 3 (API): [dceu-api.azurewebsites.net](https://dceu-api.azurewebsites.net/index.html)</li>
     <li>Link Project UI: https://github.com/Draken1509/READ-DC-COMIC-FREE  </li>
   </ul>
 </div>
@@ -59,9 +59,13 @@
 <div>
   <h4>7. Một số chức năng chính:</h4>
   <ul>
-    <li>Chức năng 1: ... </li>
-    <li>Chức năng 2: ... (mô tả chi tiết)</li>
-    <li>Chức năng 3: ... (mô tả chi tiết)</li> 
+    <li> Login, Register, xác thực gmail </li>
+    <li> Tìm kiếm, lọc dữ liệu truyện </li>
+    <li> Giỏ hàng, thanh toán</li>
+    <li> Đọc, lưu, bình luận, đánh giá truyện tranh</li> 
+    <li> Admin tạo người dùng, phân quyền</li>
+    <li> Admin quản lý các danh mục: truyện tranh, movie, news, người dùng... </li>
+    <li> Admin quản lý đơn đặt hàng</li>
   </ul>
 </div>
 
@@ -105,7 +109,6 @@
 ![create-user](https://github.com/user-attachments/assets/9c8bd379-ee4f-4545-b64e-1797942e9077)
 
 ![permission](https://github.com/user-attachments/assets/ad1b55ae-b0fd-42d7-ae27-ffc009a5ba4d)
-
 
 
 
