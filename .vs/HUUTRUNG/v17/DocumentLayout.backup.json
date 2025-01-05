@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|solutionrelative:huutrungweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|d:\\github\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n net\\dc-comic\\huutrungweb\\areas\\customer\\views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|solutionrelative:huutrungweb\\areas\\customer\\views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|d:\\github\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n net\\dc-comic\\huutrungweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|solutionrelative:huutrungweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|d:\\github\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n net\\dc-comic\\huutrungweb\\areas\\customer\\views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|solutionrelative:huutrungweb\\areas\\customer\\views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|d:\\github\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n net\\dc-comic\\huutrungweb\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -44,14 +44,14 @@
               "RelativeDocumentMoniker": "HUUTRUNGWEB\\Areas\\Customer\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Customer\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "HUUTRUNGWEB\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAJMAAACSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-05T13:50:58.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Customer\\Views\\Comics\\Index.cshtml",
               "RelativeDocumentMoniker": "HUUTRUNGWEB\\Areas\\Customer\\Views\\Comics\\Index.cshtml",
@@ -59,18 +59,17 @@
               "RelativeToolTip": "HUUTRUNGWEB\\Areas\\Customer\\Views\\Comics\\Index.cshtml",
               "ViewState": "AgIAAI0AAAAAAAAAAAAAAFkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-05T13:50:33.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T13:50:33.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "HUUTRUNGWEB\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ToolTip": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "HUUTRUNGWEB\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-05T13:35:37.019Z",
               "EditorCaption": ""
@@ -85,8 +84,7 @@
               "RelativeToolTip": "HUUTRUNGWEB\\Areas\\Admin\\Views\\User\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-05T13:35:15.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T13:35:15.767Z"
             }
           ]
         }

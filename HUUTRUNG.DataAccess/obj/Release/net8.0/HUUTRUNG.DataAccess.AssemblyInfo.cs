@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HUUTRUNG.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bf0e12d03bf63ddd0ef34f130cd2fb20a45bced")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97df053d9b7689de3d26ed03eaefb73882a4764f")]
 [assembly: System.Reflection.AssemblyProductAttribute("HUUTRUNG.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HUUTRUNG.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
