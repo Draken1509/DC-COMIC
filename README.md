@@ -17,6 +17,7 @@
   - Deloy Azure <br>
 </p>
 <h4>
-  Link Domain 1:read-dc-comic-free-fagkdhhadwfjfwcp.southeastasia-01.azurewebsites.net
-  Link Doamin 2:dceu.azurewebsites.net
+  <p> Link Domain 1 (MVC):read-dc-comic-free-fagkdhhadwfjfwcp.southeastasia-01.azurewebsites.net </p>
+  <p> Link Doamin 2 (Angular):dceu.azurewebsites.net </p>
+  <p> Link Doamin 3 (API): dceu-api.azurewebsites.net </p>
 </h4>
