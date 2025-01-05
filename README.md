@@ -23,7 +23,7 @@
     <li>Link Domain 1 (MVC): read-dc-comic-free-fagkdhhadwfjfwcp.southeastasia-01.azurewebsites.net</li>
     <li>Link Domain 2 (Angular): dceu.azurewebsites.net</li>
     <li>Link Domain 3 (API): dceu-api.azurewebsites.net</li>
-    <li>Link Project UI:  </li>
+    <li>Link Project UI: https://github.com/Draken1509/READ-DC-COMIC-FREE  </li>
   </ul>
 </div>
 
