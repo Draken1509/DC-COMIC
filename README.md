@@ -65,16 +65,11 @@
 </div>
 
 <div>
-  <h4>8. Một số hình ảnh chức năng:</h4>
-  <ul>
-    <li>Hình ảnh chức năng 1: 
-      
-      ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)
-      
-      </li>
-    <li>Hình ảnh chức năng 2: </li>
-    <li>Hình ảnh chức năng 3: </li> 
-  </ul>
+  <h4>8. Một số hình ảnh chức năng:</h4>      
+    <p>8.1 Màn hình trang chủ: </p>  
+    ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)    
+
+    
 </div>
 
 
