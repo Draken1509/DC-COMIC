@@ -11,7 +11,7 @@
   - Roles and Authorization in.NET core <br>
   - Stripe Payment/Refund with .NET core <br>
   - Session in .NET core <br>
-  - Emails with SendGrir <br>
+  - Emails with SendGrird <br>
   - View Components in .NET core <br>
   - Emails with SendGrird ( in processing) <br>
   - Deloy Azure <br>
@@ -55,13 +55,24 @@
   </ul>
 </div>
 
-<div> 
-  <h4>7. Mô tả một số chức năng quang trọng <br>
-    <p> 
-      - 
-    </p>
-  </h4>
+<div>
+  <h4>7. Mô tả một số chức năng quan trọng:</h4>
+  <ul>
+    <li>Chức năng 1: ... </li>
+    <li>Chức năng 2: ... (mô tả chi tiết)</li>
+    <li>Chức năng 3: ... (mô tả chi tiết)</li> 
+  </ul>
 </div>
+
+<div>
+  <h4>8. Một số hình ảnh chức năng:</h4>
+  <ul>
+    <li>Hình ảnh chức năng 1: ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076) </li>
+    <li>Hình ảnh chức năng 2: </li>
+    <li>Hình ảnh chức năng 3: </li> 
+  </ul>
+</div>
+
 
 
 
