@@ -22,7 +22,7 @@
   <ul>
     <li>Link Domain 1 (Angular): https://read-dc-comic-free-fagkdhhadwfjfwcp.southeastasia-01.azurewebsites.net </li>
     <li>Link Domain 2 (MVC): https://dceu.azurewebsites.net </li>
-    <li>Link Domain 3 (API): [dceu-api.azurewebsites.net](https://dceu-api.azurewebsites.net/index.html)</li>
+    <li>Link Domain 3 (API): https://dceu-api.azurewebsites.net/index.html</li>
     <li>Link Project UI: https://github.com/Draken1509/READ-DC-COMIC-FREE  </li>
   </ul>
 </div>
@@ -42,22 +42,11 @@
   </ul>
 </div>
 
-  <h4>6. Những điều còn hạn chế:</h4>
-  <ul>
-    <li>Chưa tối ưu code</li>
-    <li>Một số cột dữ liệu dư thừa không sử dụng</li>
-    <li>Cú pháp code chưa thống nhất</li>
-    <li>Thiếu một số chức năng nhất định</li>
-    <li>Một số lỗi giao diện responsive</li>
-    <li>Một số tính năng khiến trải nghiệm người dùng giảm</li>
-    <li>Hiệu suất thấp, chưa đạt như mong muốn</li>
-    <li>Cách thiết kế CSDL khá rườm rà, chưa tinh chỉnh cho hiệu quả</li>
-    <li>etc</li>
-  </ul>
+
 </div>
 
 <div>
-  <h4>7. Một số chức năng chính:</h4>
+  <h4>6. Một số chức năng chính:</h4>
   <ul>
     <li> Login, Register, xác thực gmail </li>
     <li> Tìm kiếm, lọc dữ liệu truyện </li>
@@ -69,6 +58,19 @@
   </ul>
 </div>
 
+
+  <h4>7. Những điều còn hạn chế:</h4>
+  <ul>
+    <li>Chưa tối ưu code</li>
+    <li>Một số cột dữ liệu dư thừa không sử dụng</li>
+    <li>Cú pháp code chưa thống nhất</li>
+    <li>Thiếu một số chức năng nhất định</li>
+    <li>Một số lỗi giao diện responsive</li>
+    <li>Một số tính năng khiến trải nghiệm người dùng giảm</li>
+    <li>Hiệu suất thấp, chưa đạt như mong muốn</li>
+    <li>Cách thiết kế CSDL khá rườm rà, chưa tinh chỉnh cho hiệu quả</li>
+    <li>etc</li>
+  </ul>
 <div>
   <h4>8. Một số hình ảnh chức năng:</h4>    
   
