@@ -161,6 +161,11 @@ namespace HUUTRUNGWEB.Areas.Customer.Controllers
 				ShoppingCartVM.OrderHeader.PaymentStatus = SD.PaymentStatusDelayedPayment;
 				ShoppingCartVM.OrderHeader.OrderStatus = SD.StatusApproved;
 			}
+			ModelState.Remove("OrderHeader.ApplicationUserId");
+			ModelState.Remove("MovieMain");
+			ModelState.Remove("ComicListPagination");
+			ModelState.Remove("ShoppingCartList");
+
 			if (ModelState.IsValid) {
 				_unitOfWork.OrderHeader.Add(ShoppingCartVM.OrderHeader);
 				_unitOfWork.Save();

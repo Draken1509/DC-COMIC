@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|d:\\github\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n net\\dc-comic\\huutrungweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|solutionrelative:huutrungweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|d:\\github\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n net\\dc-comic\\huutrungweb\\areas\\customer\\views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|solutionrelative:huutrungweb\\areas\\customer\\views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|d:\\github\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n net\\dc-comic\\huutrungweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|solutionrelative:huutrungweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|d:\\github\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n net\\dc-comic\\huutrungweb\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{824E63CA-19BE-42AE-BB9A-25CF1D8AF1E9}|HUUTRUNGWEB\\HUUTRUNGWEB.csproj|solutionrelative:huutrungweb\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +35,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HUUTRUNGWEB\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HUUTRUNGWEB\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T13:50:58.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Customer\\Views\\Comics\\Index.cshtml",
+              "RelativeDocumentMoniker": "HUUTRUNGWEB\\Areas\\Customer\\Views\\Comics\\Index.cshtml",
+              "ToolTip": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Customer\\Views\\Comics\\Index.cshtml",
+              "RelativeToolTip": "HUUTRUNGWEB\\Areas\\Customer\\Views\\Comics\\Index.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAFkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T13:50:33.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HUUTRUNGWEB\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "HUUTRUNGWEB\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T13:35:37.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "HUUTRUNGWEB\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\GITHUB\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n NET\\DC-COMIC\\HUUTRUNGWEB\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "HUUTRUNGWEB\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T13:35:15.767Z",
+              "EditorCaption": ""
             }
           ]
         }
