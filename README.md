@@ -68,9 +68,56 @@
   <h4>8. Một số hình ảnh chức năng:</h4>      
     <p>8.1 Màn hình trang chủ: </p> 
   
-    ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)    
+ ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)    
 
-    
+    <p>8.2 Màn hình danh mục truyện tranh: </p> 
+
+ ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)    
+
+    <p>8.3 Màn hình đặt hàng - thanh toán: </p> 
+
+ ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)    
+
+   <p>8.4 Màn hình tin tức: </p> 
+
+ ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)    
+
+   <p>8.5 Màn hình login - logout : </p> 
+
+ ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)    
+
+   <p>8.6 Màn hình CRUD truyện tranh: </p> 
+
+ ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)    
+
+   <p>8.7 Màn hình tạo - phân quyền - khóa người dùng: </p> 
+
+ ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)    
+
+   <p>8.8 Màn hình trang chủ đọc truyện </p> 
+
+ ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)    
+
+   <p>8.9 Màn hình thông tin chi tiết truyện: </p> 
+
+ ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)    
+
+  <p>8.10 Màn hình thông tin lưu truyện: </p> 
+
+ ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)    
+
+  <p>8.10 Màn hình đọc truyện : </p> 
+
+ ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)    
+
+  <p>8.10 Màn hình bình luận: </p> 
+
+ ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)    
+
+  <p>8.10 Màn hình đánh giá: </p> 
+
+ ![image](https://github.com/user-attachments/assets/e4c2ea8f-6faa-4292-a97a-f49ae700d076)    
+ 
 </div>
 
 
