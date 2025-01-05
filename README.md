@@ -48,12 +48,12 @@
 <div>
   <h4>6. Một số chức năng chính:</h4>
   <ul>
-    <li> Login, Register, xác thực gmail </li>
+    <li> Đăng nhập, đăng kí, xác thực gmail </li>
     <li> Tìm kiếm, lọc dữ liệu truyện </li>
     <li> Giỏ hàng, thanh toán</li>
     <li> Đọc, lưu, bình luận, đánh giá truyện tranh</li> 
-    <li> Admin tạo người dùng, phân quyền</li>
-    <li> Admin quản lý các danh mục: truyện tranh, movie, news, người dùng... </li>
+    <li> Admin tạo tài khoản người dùng, phân quyền</li>
+    <li> Admin quản lý các danh mục: truyện tranh, phim, tin tức, người dùng... </li>
     <li> Admin quản lý đơn đặt hàng</li>
   </ul>
 </div>
