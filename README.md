@@ -14,7 +14,7 @@
   - Session in .NET core <br>
   - Emails with SendGrird <br>
   - View Components in .NET core <br>
-  - Emails with SendGrird ( in processing) <br>
+  - Emails with SendGrird <br>
   - Deloy Azure <br>
 </p>
 <h4>3. Support: Chat gpt, Youtube, Google, etc </h4>
