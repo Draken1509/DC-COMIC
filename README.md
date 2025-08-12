@@ -22,6 +22,7 @@
 <div>
   <h4>4. Link domain:</h4>
   <ul>
+    <li>GIF demo https://github.com/Draken1509/DC-COMIC/issues/5 </li>
     <li>Link Domain 1 (Angular): https://read-dc-comic-free-fagkdhhadwfjfwcp.southeastasia-01.azurewebsites.net </li>
     <li>Link Domain 2 (MVC): https://dceu.azurewebsites.net </li>
     <li>Link Domain 3 (API): https://dceu-api.azurewebsites.net/index.html</li>
