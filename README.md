@@ -1,22 +1,18 @@
 <h2> DỰ ÁN CÁ NHÂN: DC-COMIC</h1>
-<h3>Timeline: 11/2024 -> 12/2024 (2 tháng)</h3>
+<h3>Timeline: 4/2024 -> 5/2024 </h3>
 <h4>1. Công nghệ sử dụng</h4> <p>ASP.NET Core MVC,Web API, Entity Framework Core and ASP.NET Core Identity, Angular </p>
 <p> Version: .net 8, angular 16, nodejs 18</p>
 <p>Số thẻ demo: 4242 4242 4242 4242</p>
 <h4>2. Một số kĩ thuật được sử dụng</h4>
 <p>
-  - N-Tier Architecture <br>
-  - Repository Pattern and UnitOfWork  <br>
-  - TempData/ViewBag/ViewData in NET.core <br>
-  - SweetAlerts, Rich Text Editor and DataTables with .NET core <br>
-  - Scaffold Identity (Razor class Library) <br>
-  - Roles and Authorization in.NET core <br>
-  - Stripe Payment/Refund with .NET core <br>
-  - Session in .NET core <br>
-  - Emails with SendGrird <br>
-  - View Components in .NET core <br>
-  - Emails with SendGrird <br>
-  - Deloy Azure <br>
+Architecture & Design: N-Tier Architecture, Repository Pattern, Unit of Work
+Languages & Frameworks: C#, ASP.NET Core MVC, Razor Pages
+Frontend & UI: View Components, TempData/ViewBag/ViewData, DataTables, SweetAlert, Rich Text Editor
+Data & ORM: Entity Framework Core, LINQ
+Security & Identity: ASP.NET Core Identity, Role-based Authorization
+Integrations & Services: Stripe (Payment/Refund), SendGrid (Email Services)
+State Management: Session
+Deployment: Azure
 </p>
 <h4>3. Support: Chat gpt, Youtube, Google, etc </h4>
 <div>
