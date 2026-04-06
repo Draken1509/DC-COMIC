@@ -5,14 +5,16 @@
 <p>Số thẻ demo: 4242 4242 4242 4242</p>
 <h4>2. Một số kĩ thuật được sử dụng</h4>
 <p>
-Architecture & Design: N-Tier Architecture, Repository Pattern, Unit of Work
-Languages & Frameworks: C#, ASP.NET Core MVC, Razor Pages
-Frontend & UI: View Components, TempData/ViewBag/ViewData, DataTables, SweetAlert, Rich Text Editor
-Data & ORM: Entity Framework Core, LINQ
-Security & Identity: ASP.NET Core Identity, Role-based Authorization
-Integrations & Services: Stripe (Payment/Refund), SendGrid (Email Services)
-State Management: Session
-Deployment: Azure
+<p>
+<strong>Architecture & Design:</strong> N-Tier Architecture, Repository Pattern, Unit of Work<br>
+<strong>Languages & Frameworks:</strong> C#, ASP.NET Core MVC, Razor Pages<br>
+<strong>Frontend & UI:</strong> View Components, TempData/ViewBag/ViewData, DataTables, SweetAlert, Rich Text Editor<br>
+<strong>Data & ORM:</strong> Entity Framework Core, LINQ<br>
+<strong>Security & Identity:</strong> ASP.NET Core Identity, Role-based Authorization<br>
+<strong>Integrations & Services:</strong> Stripe (Payment/Refund), SendGrid (Email Services)<br>
+<strong>State Management:</strong> Session<br>
+<strong>Deployment:</strong> Azure
+</p>
 </p>
 <h4>3. Support: Chat gpt, Youtube, Google, etc </h4>
 <div>
